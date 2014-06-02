@@ -1,0 +1,327 @@
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.pekall.test.mdmui.SetUp
+INSTRUMENTATION_STATUS: stream=
+com.pekall.test.mdmui.SetUp:
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: test=setup
+INSTRUMENTATION_STATUS_CODE: 1
+swipe to unlock
+not in settings
+go Apps
+not in apps
+go home
+not in pekall
+Apps
+Rect(0, 50 - 142, 154)
+maxSwipes:2
+continue to swipe
+continue to swipe
+maxSwipes:3
+continue to swipe
+continue to swipe
+continue to swipe
+maxSwipes:3
+HttpClienPekall
+Rect(172, 163 - 418, 211)
+not in settings
+go Apps
+already in apps
+Apps
+Rect(0, 50 - 142, 154)
+maxSwipes:2
+maxSwipes:3
+maxSwipes:3
+continue to swipe
+continue to swipe
+continue to swipe
+my Wait for exists
+currentMills:0
+exists!!
+go Pekall
+go Apps
+not in apps
+go home
+not in pekall
+not in home
+source: Apps
+\u41\u70\u70\u73
+Apps\u41\u70\u70\u73
+not in home
+source: Apps
+\u41\u70\u70\u73
+Apps\u41\u70\u70\u73
+not in home
+source: Apps
+\u41\u70\u70\u73
+Apps\u41\u70\u70\u73
+Apps
+Rect(0, 50 - 142, 154)
+maxSwipes:2
+my Wait for exists
+currentMills:0
+exists!!
+swipe...
+swipte i:0
+width:720
+height:1184
+com.android.uiautomator.core.UiDevice@41714308
+swipte i:1
+width:720
+height:1184
+com.android.uiautomator.core.UiDevice@41714308
+swipte i:2
+width:720
+height:1184
+com.android.uiautomator.core.UiDevice@41714308
+my Wait for exists
+currentMills:0
+currentMills:8
+currentMills:14
+currentMills:21
+currentMills:36
+currentMills:42
+currentMills:48
+currentMills:54
+currentMills:61
+currentMills:66
+currentMills:73
+currentMills:80
+currentMills:86
+currentMills:101
+currentMills:109
+currentMills:115
+currentMills:120
+currentMills:127
+currentMills:134
+currentMills:140
+currentMills:147
+currentMills:153
+currentMills:161
+currentMills:168
+currentMills:178
+currentMills:185
+currentMills:192
+currentMills:201
+currentMills:207
+currentMills:214
+currentMills:219
+currentMills:224
+currentMills:232
+currentMills:237
+currentMills:244
+currentMills:250
+currentMills:257
+currentMills:271
+currentMills:285
+currentMills:291
+currentMills:300
+currentMills:305
+currentMills:313
+currentMills:319
+currentMills:324
+currentMills:331
+currentMills:336
+currentMills:342
+currentMills:349
+currentMills:355
+currentMills:361
+currentMills:367
+currentMills:372
+currentMills:377
+currentMills:384
+currentMills:389
+currentMills:398
+currentMills:404
+currentMills:409
+currentMills:415
+currentMills:421
+currentMills:442
+currentMills:449
+currentMills:454
+currentMills:459
+currentMills:466
+currentMills:472
+currentMills:478
+currentMills:485
+currentMills:491
+currentMills:500
+currentMills:506
+currentMills:512
+currentMills:519
+currentMills:524
+currentMills:530
+currentMills:537
+currentMills:542
+currentMills:549
+currentMills:555
+currentMills:560
+currentMills:568
+currentMills:573
+currentMills:578
+currentMills:585
+currentMills:598
+currentMills:606
+currentMills:612
+currentMills:619
+currentMills:624
+currentMills:630
+currentMills:636
+currentMills:642
+currentMills:647
+currentMills:655
+currentMills:660
+currentMills:668
+currentMills:673
+currentMills:679
+currentMills:687
+currentMills:692
+currentMills:698
+currentMills:705
+currentMills:710
+currentMills:715
+currentMills:722
+currentMills:727
+currentMills:732
+currentMills:739
+currentMills:753
+currentMills:759
+currentMills:764
+currentMills:770
+currentMills:776
+currentMills:781
+currentMills:788
+currentMills:794
+currentMills:800
+currentMills:807
+currentMills:813
+currentMills:820
+currentMills:826
+currentMills:832
+currentMills:839
+currentMills:844
+currentMills:850
+currentMills:857
+currentMills:863
+currentMills:868
+currentMills:874
+currentMills:880
+currentMills:885
+currentMills:891
+currentMills:902
+currentMills:908
+currentMills:913
+currentMills:919
+currentMills:926
+currentMills:931
+currentMills:936
+currentMills:944
+currentMills:954
+currentMills:962
+currentMills:969
+currentMills:977
+currentMills:982
+currentMills:993
+currentMills:999
+currentMills:1007
+currentMills:1012
+currentMills:1017
+currentMills:1029
+currentMills:1034
+currentMills:1041
+currentMills:1047
+currentMills:1052
+currentMills:1059
+currentMills:1072
+currentMills:1080
+currentMills:1086
+currentMills:1092
+currentMills:1099
+currentMills:1104
+currentMills:1111
+currentMills:1116
+currentMills:1122
+currentMills:1132
+currentMills:1137
+currentMills:1144
+currentMills:1149
+currentMills:1154
+currentMills:1164
+currentMills:1169
+currentMills:1177
+currentMills:1182
+currentMills:1187
+currentMills:1198
+currentMills:1202
+currentMills:1208
+currentMills:1215
+currentMills:1220
+currentMills:1235
+currentMills:1241
+currentMills:1250
+currentMills:1256
+currentMills:1270
+currentMills:1277
+currentMills:1283
+currentMills:1288
+currentMills:1295
+currentMills:1300
+currentMills:1305
+currentMills:1313
+currentMills:1318
+currentMills:1327
+currentMills:1335
+currentMills:1343
+currentMills:1351
+currentMills:1358
+currentMills:1364
+currentMills:1370
+currentMills:1376
+currentMills:1384
+currentMills:1389
+currentMills:1394
+currentMills:1408
+currentMills:1415
+currentMills:1420
+currentMills:1426
+currentMills:1433
+currentMills:1437
+currentMills:1443
+currentMills:1450
+currentMills:1455
+currentMills:1460
+currentMills:1467
+currentMills:1472
+currentMills:1478
+currentMills:1485
+currentMills:1490
+currentMills:1495
+currentMills:1502
+currentMills:1507
+currentMills:1512
+currentMills:2151
+currentMills:2167
+currentMills:2186
+currentMills:2209
+currentMills:2336
+currentMills:3307
+currentMills:4059
+currentMills:4812
+currentMills:5648
+exists!!
+in pekall home or list
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.pekall.test.mdmui.SetUp
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: test=setup
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: stream=
+Test results for WatcherResultPrinter=.
+Time: 84.905
+
+OK (1 test)
+
+
+INSTRUMENTATION_STATUS_CODE: -1

@@ -1,0 +1,78 @@
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.pekall.test.mdmui.Message
+INSTRUMENTATION_STATUS: stream=
+com.pekall.test.mdmui.Message:
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: test=checkPushMsgReceived
+INSTRUMENTATION_STATUS_CODE: 1
+swipe to unlock
+swipe to unlock
+in pekall
+Message Center  not in pekall list
+in pekall home or list
+not in pekall home
+Rect(293, 1070 - 426, 1174)
+Message Center
+Rect(185, 335 - 360, 590)
+swipe to unlock
+already in pekall message
+in pekall
+Message Center  not in pekall list
+in pekall but not in pekall home or list
+not need login 
+not in pekall home
+Rect(293, 1078 - 426, 1174)
+Message Center
+Rect(185, 335 - 360, 590)
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.pekall.test.mdmui.Message
+INSTRUMENTATION_STATUS: stream=
+Failure in checkPushMsgReceived:
+junit.framework.AssertionFailedError: unable enter pekall messageCenter
+	at com.pekall.test.mdmui.util.MyAssert.assert_True(MyAssert.java:29)
+	at com.pekall.test.mdmui.pekallManager.PekallMessage.goMessage(PekallMessage.java:39)
+	at com.pekall.test.mdmui.pekallManager.PekallMessage.goPushMessage(PekallMessage.java:43)
+	at com.pekall.test.mdmui.util.UiAction.waitForExists(UiAction.java:266)
+	at com.pekall.test.mdmui.util.UiAction.waitForExists(UiAction.java:206)
+	at com.pekall.test.mdmui.pekallManager.PekallMessage.checkPushMsgReceived(PekallMessage.java:52)
+	at com.pekall.test.mdmui.Message.checkPushMsgReceived(Message.java:17)
+	at java.lang.reflect.Method.invokeNative(Native Method)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:235)
+	at dalvik.system.NativeStart.main(Native Method)
+
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stack=junit.framework.AssertionFailedError: unable enter pekall messageCenter
+	at com.pekall.test.mdmui.util.MyAssert.assert_True(MyAssert.java:29)
+	at com.pekall.test.mdmui.pekallManager.PekallMessage.goMessage(PekallMessage.java:39)
+	at com.pekall.test.mdmui.pekallManager.PekallMessage.goPushMessage(PekallMessage.java:43)
+	at com.pekall.test.mdmui.util.UiAction.waitForExists(UiAction.java:266)
+	at com.pekall.test.mdmui.util.UiAction.waitForExists(UiAction.java:206)
+	at com.pekall.test.mdmui.pekallManager.PekallMessage.checkPushMsgReceived(PekallMessage.java:52)
+	at com.pekall.test.mdmui.Message.checkPushMsgReceived(Message.java:17)
+	at java.lang.reflect.Method.invokeNative(Native Method)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:235)
+	at dalvik.system.NativeStart.main(Native Method)
+
+INSTRUMENTATION_STATUS: test=checkPushMsgReceived
+INSTRUMENTATION_STATUS_CODE: -2
+INSTRUMENTATION_STATUS: stream=
+Test results for WatcherResultPrinter=.F
+Time: 19.434
+
+FAILURES!!!
+Tests run: 1,  Failures: 1,  Errors: 0
+
+
+INSTRUMENTATION_STATUS_CODE: -1

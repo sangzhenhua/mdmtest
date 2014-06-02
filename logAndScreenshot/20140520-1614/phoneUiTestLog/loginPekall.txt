@@ -1,0 +1,664 @@
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.pekall.test.mdmui.SetUp
+INSTRUMENTATION_STATUS: stream=
+com.pekall.test.mdmui.SetUp:
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: test=loginPekall
+INSTRUMENTATION_STATUS_CODE: 1
+Not found ANR!
+Not found ANR!
+swipe to unlock
+Not found ANR!
+Not found ANR!
+Not found ANR!
+not in pekall home or list
+login after clear company data
+Not found ANR!
+Not found ANR!
+my Wait for exists
+currentMills:0
+Not found ANR!
+currentMills:2139
+Not found ANR!
+currentMills:3644
+Not found ANR!
+currentMills:4715
+Not found ANR!
+currentMills:4795
+Not found ANR!
+currentMills:4881
+Not found ANR!
+currentMills:4936
+Not found ANR!
+currentMills:4999
+Not found ANR!
+currentMills:5099
+Not found ANR!
+currentMills:5143
+Not found ANR!
+currentMills:5186
+Not found ANR!
+currentMills:5229
+Not found ANR!
+currentMills:5272
+Not found ANR!
+currentMills:5315
+Not found ANR!
+currentMills:5358
+Not found ANR!
+currentMills:5411
+Not found ANR!
+currentMills:5466
+Not found ANR!
+currentMills:5510
+Not found ANR!
+currentMills:5562
+Not found ANR!
+currentMills:5609
+Not found ANR!
+currentMills:5652
+Not found ANR!
+currentMills:5695
+Not found ANR!
+currentMills:5740
+Not found ANR!
+currentMills:5785
+Not found ANR!
+currentMills:5828
+Not found ANR!
+currentMills:5871
+Not found ANR!
+currentMills:5919
+Not found ANR!
+currentMills:5963
+Not found ANR!
+currentMills:6007
+Not found ANR!
+currentMills:6052
+Not found ANR!
+currentMills:6095
+Not found ANR!
+currentMills:6139
+Not found ANR!
+currentMills:6182
+Not found ANR!
+currentMills:6226
+Not found ANR!
+currentMills:6267
+Not found ANR!
+currentMills:6310
+Not found ANR!
+currentMills:6352
+Not found ANR!
+currentMills:6395
+Not found ANR!
+currentMills:6435
+Not found ANR!
+currentMills:6480
+Not found ANR!
+currentMills:6521
+Not found ANR!
+currentMills:6572
+Not found ANR!
+currentMills:6613
+Not found ANR!
+currentMills:6656
+Not found ANR!
+currentMills:6697
+Not found ANR!
+currentMills:6740
+Not found ANR!
+currentMills:6781
+Not found ANR!
+currentMills:6843
+Not found ANR!
+currentMills:6911
+Not found ANR!
+currentMills:6985
+Not found ANR!
+currentMills:7040
+Not found ANR!
+currentMills:7089
+Not found ANR!
+currentMills:7143
+Not found ANR!
+currentMills:7201
+Not found ANR!
+currentMills:7245
+Not found ANR!
+currentMills:7293
+Not found ANR!
+currentMills:7343
+Not found ANR!
+currentMills:7391
+Not found ANR!
+currentMills:7470
+Not found ANR!
+currentMills:7529
+Not found ANR!
+currentMills:7591
+Not found ANR!
+currentMills:8124
+Not found ANR!
+currentMills:8168
+Not found ANR!
+currentMills:8217
+Not found ANR!
+currentMills:8259
+Not found ANR!
+currentMills:8303
+Not found ANR!
+currentMills:8348
+Not found ANR!
+currentMills:8391
+Not found ANR!
+currentMills:8437
+Not found ANR!
+currentMills:8487
+Not found ANR!
+currentMills:8535
+Not found ANR!
+currentMills:8581
+Not found ANR!
+currentMills:8637
+Not found ANR!
+currentMills:8684
+Not found ANR!
+currentMills:8729
+Not found ANR!
+currentMills:8775
+Not found ANR!
+currentMills:8820
+Not found ANR!
+currentMills:8866
+Not found ANR!
+currentMills:8913
+Not found ANR!
+currentMills:8955
+Not found ANR!
+currentMills:9000
+Not found ANR!
+currentMills:9046
+Not found ANR!
+currentMills:9092
+Not found ANR!
+currentMills:9139
+Not found ANR!
+currentMills:9185
+Not found ANR!
+currentMills:9227
+Not found ANR!
+currentMills:9270
+Not found ANR!
+currentMills:9318
+Not found ANR!
+currentMills:9360
+Not found ANR!
+currentMills:9412
+Not found ANR!
+currentMills:9461
+Not found ANR!
+currentMills:9505
+Not found ANR!
+currentMills:9553
+Not found ANR!
+currentMills:9596
+Not found ANR!
+currentMills:9649
+Not found ANR!
+currentMills:9712
+Not found ANR!
+currentMills:9755
+Not found ANR!
+currentMills:9807
+Not found ANR!
+currentMills:9860
+Not found ANR!
+currentMills:9902
+Not found ANR!
+currentMills:9958
+Not found ANR!
+currentMills:10003
+Not found ANR!
+currentMills:10047
+Not found ANR!
+currentMills:10098
+Not found ANR!
+currentMills:10141
+Not found ANR!
+currentMills:10185
+Not found ANR!
+currentMills:10240
+Not found ANR!
+currentMills:10287
+Not found ANR!
+currentMills:10327
+Not found ANR!
+currentMills:10372
+Not found ANR!
+currentMills:10416
+Not found ANR!
+currentMills:10458
+Not found ANR!
+currentMills:10508
+Not found ANR!
+currentMills:10554
+Not found ANR!
+currentMills:10595
+Not found ANR!
+currentMills:10641
+Not found ANR!
+currentMills:10685
+Not found ANR!
+currentMills:10725
+Not found ANR!
+currentMills:10767
+Not found ANR!
+currentMills:10808
+Not found ANR!
+currentMills:10849
+Not found ANR!
+currentMills:10891
+Not found ANR!
+currentMills:10932
+Not found ANR!
+currentMills:10974
+Not found ANR!
+currentMills:11023
+Not found ANR!
+currentMills:11063
+Not found ANR!
+currentMills:11109
+Not found ANR!
+currentMills:11156
+Not found ANR!
+currentMills:11196
+Not found ANR!
+currentMills:11236
+Not found ANR!
+currentMills:11279
+Not found ANR!
+currentMills:11319
+Not found ANR!
+currentMills:11360
+Not found ANR!
+currentMills:11429
+Not found ANR!
+currentMills:11470
+Not found ANR!
+currentMills:11510
+Not found ANR!
+currentMills:11556
+Not found ANR!
+currentMills:11596
+Not found ANR!
+currentMills:11637
+Not found ANR!
+currentMills:11685
+Not found ANR!
+currentMills:11725
+Not found ANR!
+currentMills:11766
+Not found ANR!
+currentMills:11814
+Not found ANR!
+currentMills:11855
+Not found ANR!
+currentMills:11897
+Not found ANR!
+currentMills:11940
+Not found ANR!
+currentMills:11979
+Not found ANR!
+currentMills:12021
+Not found ANR!
+currentMills:12062
+Not found ANR!
+currentMills:12103
+Not found ANR!
+currentMills:12147
+Not found ANR!
+currentMills:12195
+Not found ANR!
+currentMills:12236
+Not found ANR!
+currentMills:12277
+Not found ANR!
+currentMills:12320
+Not found ANR!
+currentMills:12361
+Not found ANR!
+currentMills:12400
+Not found ANR!
+currentMills:12447
+Not found ANR!
+currentMills:12490
+Not found ANR!
+currentMills:12535
+Not found ANR!
+currentMills:12586
+Not found ANR!
+currentMills:12632
+Not found ANR!
+currentMills:12674
+Not found ANR!
+currentMills:12715
+Not found ANR!
+currentMills:12755
+Not found ANR!
+currentMills:12797
+Not found ANR!
+currentMills:12839
+Not found ANR!
+currentMills:12879
+Not found ANR!
+currentMills:12920
+Not found ANR!
+currentMills:12965
+Not found ANR!
+currentMills:13005
+Not found ANR!
+currentMills:13049
+Not found ANR!
+currentMills:13099
+Not found ANR!
+currentMills:13143
+Not found ANR!
+currentMills:13195
+Not found ANR!
+currentMills:13244
+Not found ANR!
+currentMills:13287
+Not found ANR!
+currentMills:13337
+Not found ANR!
+currentMills:13386
+Not found ANR!
+currentMills:13428
+Not found ANR!
+currentMills:13470
+Not found ANR!
+currentMills:13513
+Not found ANR!
+currentMills:13552
+Not found ANR!
+currentMills:13600
+Not found ANR!
+currentMills:13640
+Not found ANR!
+currentMills:13681
+Not found ANR!
+currentMills:13722
+Not found ANR!
+currentMills:13763
+Not found ANR!
+currentMills:13803
+Not found ANR!
+currentMills:13843
+Not found ANR!
+currentMills:13883
+Not found ANR!
+currentMills:13922
+Not found ANR!
+currentMills:13965
+Not found ANR!
+currentMills:14005
+Not found ANR!
+currentMills:14046
+Not found ANR!
+currentMills:14093
+Not found ANR!
+currentMills:14139
+Not found ANR!
+currentMills:14187
+Not found ANR!
+currentMills:14233
+Not found ANR!
+currentMills:14274
+Not found ANR!
+currentMills:14317
+Not found ANR!
+currentMills:14364
+Not found ANR!
+currentMills:14412
+Not found ANR!
+currentMills:14452
+Not found ANR!
+currentMills:14501
+Not found ANR!
+currentMills:14540
+Not found ANR!
+currentMills:14580
+Not found ANR!
+currentMills:14626
+Not found ANR!
+currentMills:14676
+Not found ANR!
+currentMills:14723
+Not found ANR!
+currentMills:14765
+Not found ANR!
+currentMills:14808
+Not found ANR!
+currentMills:14849
+Not found ANR!
+currentMills:14898
+Not found ANR!
+currentMills:14937
+Not found ANR!
+currentMills:14984
+Not found ANR!
+currentMills:15024
+Not found ANR!
+currentMills:15068
+Not found ANR!
+currentMills:15140
+Not found ANR!
+currentMills:15185
+Not found ANR!
+currentMills:15231
+Not found ANR!
+currentMills:15272
+Not found ANR!
+currentMills:15313
+Not found ANR!
+currentMills:15354
+Not found ANR!
+currentMills:15399
+Not found ANR!
+currentMills:15440
+Not found ANR!
+currentMills:15488
+Not found ANR!
+currentMills:15543
+Not found ANR!
+currentMills:15592
+Not found ANR!
+currentMills:15640
+Not found ANR!
+currentMills:15691
+Not found ANR!
+currentMills:15734
+Not found ANR!
+currentMills:15776
+Not found ANR!
+currentMills:15824
+Not found ANR!
+currentMills:15866
+Not found ANR!
+currentMills:15907
+Not found ANR!
+currentMills:15951
+Not found ANR!
+currentMills:15994
+Not found ANR!
+currentMills:16041
+Not found ANR!
+currentMills:16097
+Not found ANR!
+currentMills:16137
+Not found ANR!
+currentMills:16177
+Not found ANR!
+currentMills:16228
+Not found ANR!
+currentMills:16291
+Not found ANR!
+currentMills:16340
+Not found ANR!
+currentMills:16388
+Not found ANR!
+currentMills:16916
+Not found ANR!
+currentMills:16962
+Not found ANR!
+currentMills:17004
+Not found ANR!
+currentMills:17046
+Not found ANR!
+currentMills:17096
+Not found ANR!
+currentMills:17143
+Not found ANR!
+currentMills:17191
+Not found ANR!
+currentMills:17238
+Not found ANR!
+currentMills:17291
+Not found ANR!
+currentMills:17358
+Not found ANR!
+currentMills:17429
+Not found ANR!
+currentMills:17511
+Not found ANR!
+currentMills:17577
+Not found ANR!
+currentMills:17688
+Not found ANR!
+currentMills:17765
+Not found ANR!
+currentMills:17847
+Not found ANR!
+currentMills:17917
+Not found ANR!
+currentMills:17956
+Not found ANR!
+currentMills:18032
+Not found ANR!
+currentMills:18101
+Not found ANR!
+currentMills:18146
+Not found ANR!
+currentMills:18215
+Not found ANR!
+currentMills:18289
+Not found ANR!
+currentMills:18369
+Not found ANR!
+currentMills:18446
+Not found ANR!
+currentMills:18525
+Not found ANR!
+currentMills:18622
+Not found ANR!
+currentMills:18703
+Not found ANR!
+currentMills:18799
+Not found ANR!
+currentMills:18869
+Not found ANR!
+currentMills:18954
+Not found ANR!
+currentMills:19023
+Not found ANR!
+currentMills:19103
+Not found ANR!
+currentMills:19192
+Not found ANR!
+currentMills:19306
+Not found ANR!
+currentMills:19931
+Not found ANR!
+currentMills:20465
+Not found ANR!
+currentMills:20528
+Not found ANR!
+currentMills:20602
+Not found ANR!
+currentMills:20650
+Not found ANR!
+currentMills:20693
+Not found ANR!
+currentMills:20755
+Not found ANR!
+currentMills:20805
+Not found ANR!
+currentMills:20842
+Not found ANR!
+currentMills:20900
+Not found ANR!
+currentMills:20952
+Not found ANR!
+currentMills:21009
+Not found ANR!
+currentMills:21055
+Not found ANR!
+currentMills:21102
+Not found ANR!
+currentMills:21155
+Not found ANR!
+currentMills:21204
+Not found ANR!
+currentMills:21254
+Not found ANR!
+currentMills:21307
+Not found ANR!
+currentMills:21359
+Not found ANR!
+currentMills:21411
+Not found ANR!
+currentMills:21469
+Not found ANR!
+currentMills:21617
+Not found ANR!
+currentMills:22481
+Not found ANR!
+currentMills:22528
+Not found ANR!
+currentMills:23250
+Not found ANR!
+currentMills:23298
+Not found ANR!
+currentMills:23333
+Not found ANR!
+currentMills:23391
+Not found ANR!
+currentMills:23477
+Not found ANR!
+currentMills:23539
+Not found ANR!
+currentMills:23605
+Not found ANR!
+currentMills:23665
+Not found ANR!
+currentMills:23730
+Not found ANR!
+currentMills:23836
+exists!!
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.pekall.test.mdmui.SetUp
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: test=loginPekall
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: stream=
+Test results for WatcherResultPrinter=.
+Time: 34.975
+
+OK (1 test)
+
+
+INSTRUMENTATION_STATUS_CODE: -1

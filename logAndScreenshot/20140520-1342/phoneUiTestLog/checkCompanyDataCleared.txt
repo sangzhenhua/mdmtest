@@ -1,0 +1,160 @@
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.pekall.test.mdmui.Device
+INSTRUMENTATION_STATUS: stream=
+com.pekall.test.mdmui.Device:
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: test=checkCompanyDataCleared
+INSTRUMENTATION_STATUS_CODE: 1
+device get in outside:com.android.uiautomator.core.UiDevice@41dea970
+swipe to unlock
+in pekall
+my Wait for exists
+wake up
+currentMills:0
+systemclock.uptimeMillis()-wakeupMills=26
+currentMills:26
+systemclock.uptimeMillis()-wakeupMills=84
+currentMills:84
+systemclock.uptimeMillis()-wakeupMills=105
+currentMills:105
+systemclock.uptimeMillis()-wakeupMills=129
+currentMills:129
+systemclock.uptimeMillis()-wakeupMills=176
+currentMills:177
+systemclock.uptimeMillis()-wakeupMills=199
+currentMills:199
+systemclock.uptimeMillis()-wakeupMills=221
+currentMills:221
+systemclock.uptimeMillis()-wakeupMills=242
+currentMills:242
+systemclock.uptimeMillis()-wakeupMills=263
+currentMills:263
+systemclock.uptimeMillis()-wakeupMills=286
+currentMills:286
+systemclock.uptimeMillis()-wakeupMills=307
+currentMills:307
+systemclock.uptimeMillis()-wakeupMills=328
+currentMills:328
+systemclock.uptimeMillis()-wakeupMills=350
+currentMills:350
+systemclock.uptimeMillis()-wakeupMills=370
+currentMills:370
+systemclock.uptimeMillis()-wakeupMills=424
+currentMills:424
+systemclock.uptimeMillis()-wakeupMills=446
+currentMills:446
+systemclock.uptimeMillis()-wakeupMills=471
+currentMills:471
+systemclock.uptimeMillis()-wakeupMills=493
+currentMills:493
+systemclock.uptimeMillis()-wakeupMills=515
+currentMills:515
+systemclock.uptimeMillis()-wakeupMills=536
+currentMills:536
+systemclock.uptimeMillis()-wakeupMills=558
+currentMills:558
+systemclock.uptimeMillis()-wakeupMills=579
+currentMills:580
+systemclock.uptimeMillis()-wakeupMills=601
+currentMills:601
+systemclock.uptimeMillis()-wakeupMills=623
+currentMills:623
+systemclock.uptimeMillis()-wakeupMills=645
+currentMills:645
+systemclock.uptimeMillis()-wakeupMills=667
+currentMills:667
+systemclock.uptimeMillis()-wakeupMills=688
+currentMills:689
+systemclock.uptimeMillis()-wakeupMills=710
+currentMills:710
+systemclock.uptimeMillis()-wakeupMills=731
+currentMills:731
+systemclock.uptimeMillis()-wakeupMills=752
+currentMills:752
+systemclock.uptimeMillis()-wakeupMills=773
+currentMills:773
+systemclock.uptimeMillis()-wakeupMills=794
+currentMills:794
+systemclock.uptimeMillis()-wakeupMills=815
+currentMills:815
+systemclock.uptimeMillis()-wakeupMills=836
+currentMills:836
+systemclock.uptimeMillis()-wakeupMills=856
+currentMills:856
+systemclock.uptimeMillis()-wakeupMills=877
+currentMills:877
+systemclock.uptimeMillis()-wakeupMills=898
+currentMills:898
+systemclock.uptimeMillis()-wakeupMills=918
+currentMills:918
+systemclock.uptimeMillis()-wakeupMills=939
+currentMills:939
+systemclock.uptimeMillis()-wakeupMills=959
+currentMills:959
+systemclock.uptimeMillis()-wakeupMills=980
+currentMills:980
+systemclock.uptimeMillis()-wakeupMills=1002
+currentMills:1002
+systemclock.uptimeMillis()-wakeupMills=1023
+currentMills:1023
+systemclock.uptimeMillis()-wakeupMills=1068
+currentMills:1069
+systemclock.uptimeMillis()-wakeupMills=1090
+currentMills:1090
+systemclock.uptimeMillis()-wakeupMills=1211
+currentMills:1211
+systemclock.uptimeMillis()-wakeupMills=1247
+currentMills:1247
+systemclock.uptimeMillis()-wakeupMills=2999
+currentMills:3000
+systemclock.uptimeMillis()-wakeupMills=3540
+currentMills:3540
+systemclock.uptimeMillis()-wakeupMills=4389
+currentMills:4389
+systemclock.uptimeMillis()-wakeupMills=4443
+currentMills:4443
+systemclock.uptimeMillis()-wakeupMills=4465
+currentMills:4465
+systemclock.uptimeMillis()-wakeupMills=4487
+currentMills:4487
+systemclock.uptimeMillis()-wakeupMills=4509
+currentMills:4509
+systemclock.uptimeMillis()-wakeupMills=4533
+currentMills:4533
+systemclock.uptimeMillis()-wakeupMills=5119
+currentMills:5119
+systemclock.uptimeMillis()-wakeupMills=5150
+currentMills:5150
+systemclock.uptimeMillis()-wakeupMills=7810
+currentMills:7810
+systemclock.uptimeMillis()-wakeupMills=8412
+currentMills:8412
+systemclock.uptimeMillis()-wakeupMills=9698
+currentMills:9698
+systemclock.uptimeMillis()-wakeupMills=9723
+currentMills:9724
+systemclock.uptimeMillis()-wakeupMills=9745
+currentMills:9745
+systemclock.uptimeMillis()-wakeupMills=9773
+currentMills:9773
+systemclock.uptimeMillis()-wakeupMills=9798
+currentMills:9798
+systemclock.uptimeMillis()-wakeupMills=9961
+currentMills:9961
+exists!!
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.pekall.test.mdmui.Device
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: test=checkCompanyDataCleared
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: stream=
+Test results for WatcherResultPrinter=.
+Time: 13.685
+
+OK (1 test)
+
+
+INSTRUMENTATION_STATUS_CODE: -1

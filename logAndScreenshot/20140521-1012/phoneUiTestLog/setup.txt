@@ -1,0 +1,602 @@
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.pekall.test.mdmui.SetUp
+INSTRUMENTATION_STATUS: stream=
+com.pekall.test.mdmui.SetUp:
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: test=setup
+INSTRUMENTATION_STATUS_CODE: 1
+swipe to unlock
+not in settings
+go Apps
+not in apps
+go home
+in pekall
+not in pekall home or list
+not need login 
+Personal Mode
+Rect(190, 608 - 350, 808)
+Apps
+Rect(0, 50 - 142, 154)
+maxSwipes:2
+continue to swipe
+continue to swipe
+maxSwipes:3
+continue to swipe
+continue to swipe
+continue to swipe
+maxSwipes:3
+HttpClienPekall
+Rect(172, 324 - 418, 372)
+not in settings
+go Apps
+already in apps
+Apps
+Rect(0, 50 - 142, 154)
+maxSwipes:2
+maxSwipes:3
+maxSwipes:3
+continue to swipe
+continue to swipe
+continue to swipe
+go Pekall
+go Apps
+not in apps
+go home
+not in pekall
+not in home
+source: Apps
+\u41\u70\u70\u73
+Apps\u41\u70\u70\u73
+not in home
+source: Apps
+\u41\u70\u70\u73
+Apps\u41\u70\u70\u73
+not in home
+source: Apps
+\u41\u70\u70\u73
+Apps\u41\u70\u70\u73
+Apps
+Rect(0, 50 - 142, 154)
+maxSwipes:2
+swipe...
+swipte i:0
+width:720
+height:1184
+com.android.uiautomator.core.UiDevice@416172c0
+swipte i:1
+width:720
+height:1184
+com.android.uiautomator.core.UiDevice@416172c0
+swipte i:2
+width:720
+height:1184
+com.android.uiautomator.core.UiDevice@416172c0
+my Wait for exists
+currentMills:0
+currentMills:15
+currentMills:33
+currentMills:49
+currentMills:66
+currentMills:83
+currentMills:100
+currentMills:117
+currentMills:134
+currentMills:150
+currentMills:167
+currentMills:184
+currentMills:201
+currentMills:218
+currentMills:235
+currentMills:252
+currentMills:269
+currentMills:286
+currentMills:303
+currentMills:320
+currentMills:337
+currentMills:354
+currentMills:371
+currentMills:395
+currentMills:405
+currentMills:422
+currentMills:440
+currentMills:456
+currentMills:473
+currentMills:490
+currentMills:507
+currentMills:524
+currentMills:541
+currentMills:558
+currentMills:575
+currentMills:592
+currentMills:609
+currentMills:625
+currentMills:643
+currentMills:660
+currentMills:677
+currentMills:693
+currentMills:709
+currentMills:726
+currentMills:743
+currentMills:760
+currentMills:777
+currentMills:795
+currentMills:811
+currentMills:829
+currentMills:845
+currentMills:863
+currentMills:880
+currentMills:899
+currentMills:915
+currentMills:930
+currentMills:948
+currentMills:964
+currentMills:981
+currentMills:998
+currentMills:1015
+currentMills:1032
+currentMills:1050
+currentMills:1066
+currentMills:1083
+currentMills:1100
+currentMills:1118
+currentMills:1133
+currentMills:1150
+currentMills:1167
+currentMills:1184
+currentMills:1201
+currentMills:1219
+currentMills:1235
+currentMills:1252
+currentMills:1269
+currentMills:1286
+currentMills:1305
+currentMills:1323
+currentMills:1341
+currentMills:1355
+currentMills:1371
+currentMills:1388
+currentMills:1406
+currentMills:1423
+currentMills:1439
+currentMills:1455
+currentMills:1473
+currentMills:1492
+currentMills:1508
+currentMills:1525
+currentMills:1541
+currentMills:1558
+currentMills:1576
+currentMills:1593
+currentMills:1610
+currentMills:1625
+currentMills:1642
+currentMills:1659
+currentMills:1676
+currentMills:1693
+currentMills:1710
+currentMills:1727
+currentMills:1744
+currentMills:1761
+currentMills:1777
+currentMills:1794
+currentMills:1812
+currentMills:1831
+currentMills:1846
+currentMills:1866
+currentMills:1881
+currentMills:1897
+currentMills:1914
+currentMills:1930
+currentMills:1947
+currentMills:1964
+currentMills:1981
+currentMills:1998
+currentMills:2015
+currentMills:2033
+currentMills:2049
+currentMills:2066
+currentMills:2083
+currentMills:2100
+currentMills:2117
+currentMills:2134
+currentMills:2151
+currentMills:2168
+currentMills:2185
+currentMills:2202
+currentMills:2219
+currentMills:2236
+currentMills:2253
+currentMills:2270
+currentMills:2287
+currentMills:2304
+currentMills:2321
+currentMills:2338
+currentMills:2356
+currentMills:2371
+currentMills:2388
+currentMills:2409
+currentMills:2422
+currentMills:2439
+currentMills:2456
+currentMills:2475
+currentMills:2490
+currentMills:2507
+currentMills:2525
+currentMills:2558
+currentMills:2571
+currentMills:2580
+currentMills:2585
+currentMills:2590
+currentMills:2598
+currentMills:2604
+currentMills:2612
+currentMills:2618
+currentMills:2624
+currentMills:2632
+currentMills:2642
+currentMills:2662
+currentMills:2672
+currentMills:2679
+currentMills:2684
+currentMills:2691
+currentMills:2706
+currentMills:2713
+currentMills:2719
+currentMills:2724
+currentMills:2731
+currentMills:2736
+currentMills:2741
+currentMills:2748
+currentMills:2754
+currentMills:2760
+currentMills:2769
+currentMills:2774
+currentMills:2781
+currentMills:2786
+currentMills:2791
+currentMills:2802
+currentMills:2807
+currentMills:2813
+currentMills:2819
+currentMills:2824
+currentMills:2837
+currentMills:2842
+currentMills:2849
+currentMills:2855
+currentMills:2869
+currentMills:2874
+currentMills:2879
+currentMills:2885
+currentMills:2891
+currentMills:2900
+currentMills:2907
+currentMills:2917
+currentMills:2924
+currentMills:2929
+currentMills:2936
+currentMills:2941
+currentMills:2947
+currentMills:2954
+currentMills:2959
+currentMills:2966
+currentMills:2972
+currentMills:2977
+currentMills:2984
+currentMills:2990
+currentMills:2995
+currentMills:3002
+currentMills:3008
+currentMills:3014
+currentMills:3027
+currentMills:3035
+currentMills:3041
+currentMills:3046
+currentMills:3053
+currentMills:3058
+currentMills:3063
+currentMills:3070
+currentMills:3075
+currentMills:3081
+currentMills:3087
+currentMills:3093
+currentMills:3098
+currentMills:3104
+currentMills:3110
+currentMills:3116
+currentMills:3122
+currentMills:3128
+currentMills:3133
+currentMills:3140
+currentMills:3145
+currentMills:3150
+currentMills:3156
+currentMills:3161
+currentMills:3176
+currentMills:3181
+currentMills:3190
+currentMills:3196
+currentMills:3201
+currentMills:3209
+currentMills:3215
+currentMills:3221
+currentMills:3227
+currentMills:3232
+currentMills:3245
+currentMills:3251
+currentMills:3259
+currentMills:3264
+currentMills:3270
+currentMills:3278
+currentMills:3284
+currentMills:3293
+currentMills:3298
+currentMills:3309
+currentMills:3315
+currentMills:3321
+currentMills:3328
+currentMills:3333
+currentMills:3347
+currentMills:3354
+currentMills:3361
+currentMills:3366
+currentMills:3371
+currentMills:3379
+currentMills:3385
+currentMills:3391
+currentMills:3396
+currentMills:3402
+currentMills:3409
+currentMills:3414
+currentMills:3420
+currentMills:3432
+currentMills:3437
+currentMills:3443
+currentMills:3448
+currentMills:3454
+currentMills:3461
+currentMills:3466
+currentMills:3472
+currentMills:3480
+currentMills:3485
+currentMills:3493
+currentMills:3504
+currentMills:3510
+currentMills:3515
+currentMills:3521
+currentMills:3526
+currentMills:3531
+currentMills:3536
+currentMills:3543
+currentMills:3548
+currentMills:3553
+currentMills:3562
+currentMills:3567
+currentMills:3572
+currentMills:3579
+currentMills:3584
+currentMills:3589
+currentMills:3596
+currentMills:3601
+currentMills:3607
+currentMills:3613
+currentMills:3618
+currentMills:3624
+currentMills:3631
+currentMills:3636
+currentMills:3651
+currentMills:3657
+currentMills:3665
+currentMills:3670
+currentMills:3675
+currentMills:3683
+currentMills:3691
+currentMills:3698
+currentMills:3703
+currentMills:3708
+currentMills:3715
+currentMills:3720
+currentMills:3725
+currentMills:3731
+currentMills:3736
+currentMills:3741
+currentMills:3748
+currentMills:3754
+currentMills:3759
+currentMills:3767
+currentMills:3771
+currentMills:3777
+currentMills:3783
+currentMills:3788
+currentMills:3802
+currentMills:3808
+currentMills:3815
+currentMills:3822
+currentMills:3828
+currentMills:3837
+currentMills:3844
+currentMills:3851
+currentMills:3857
+currentMills:3863
+currentMills:3870
+currentMills:3876
+currentMills:3884
+currentMills:3891
+currentMills:3897
+currentMills:3907
+currentMills:3913
+currentMills:3920
+currentMills:3925
+currentMills:3932
+currentMills:3937
+currentMills:3942
+currentMills:3947
+currentMills:3954
+currentMills:3976
+currentMills:3983
+currentMills:3989
+currentMills:3994
+currentMills:4000
+currentMills:4006
+currentMills:4011
+currentMills:4018
+currentMills:4023
+currentMills:4028
+currentMills:4034
+currentMills:4039
+currentMills:4044
+currentMills:4051
+currentMills:4057
+currentMills:4063
+currentMills:4070
+currentMills:4075
+currentMills:4081
+currentMills:4088
+currentMills:4093
+currentMills:4098
+currentMills:4105
+currentMills:4110
+currentMills:4125
+currentMills:4130
+currentMills:4137
+currentMills:4143
+currentMills:4147
+currentMills:4154
+currentMills:4160
+currentMills:4165
+currentMills:4173
+currentMills:4178
+currentMills:4184
+currentMills:4191
+currentMills:4202
+currentMills:4209
+currentMills:4214
+currentMills:4219
+currentMills:4225
+currentMills:4231
+currentMills:4238
+currentMills:4243
+currentMills:4248
+currentMills:4252
+currentMills:4259
+currentMills:4265
+currentMills:4277
+currentMills:4282
+currentMills:4289
+currentMills:4294
+currentMills:4299
+currentMills:4306
+currentMills:4311
+currentMills:4316
+currentMills:4323
+currentMills:4328
+currentMills:4333
+currentMills:4340
+currentMills:4345
+currentMills:4350
+currentMills:4357
+currentMills:4371
+currentMills:4385
+currentMills:4395
+currentMills:4400
+currentMills:4405
+currentMills:4413
+currentMills:4418
+currentMills:4437
+currentMills:5099
+currentMills:5151
+currentMills:5515
+currentMills:6705
+currentMills:6715
+currentMills:6720
+currentMills:6726
+currentMills:6733
+currentMills:6738
+currentMills:6745
+currentMills:6752
+currentMills:6759
+currentMills:6766
+currentMills:6772
+currentMills:6778
+currentMills:6785
+currentMills:6790
+currentMills:6796
+currentMills:6803
+currentMills:6811
+currentMills:6816
+currentMills:6822
+currentMills:6828
+currentMills:6835
+currentMills:6841
+currentMills:6856
+currentMills:6862
+currentMills:6868
+currentMills:6875
+currentMills:6880
+currentMills:6887
+currentMills:6893
+currentMills:6900
+currentMills:6907
+currentMills:6914
+currentMills:6921
+currentMills:6926
+currentMills:6932
+currentMills:6939
+currentMills:6944
+currentMills:6951
+currentMills:6957
+currentMills:6964
+currentMills:6971
+currentMills:6976
+currentMills:6983
+currentMills:6990
+currentMills:6997
+currentMills:7005
+currentMills:7013
+currentMills:7022
+currentMills:7026
+currentMills:7032
+currentMills:7040
+currentMills:7045
+currentMills:7050
+currentMills:7064
+currentMills:7071
+currentMills:7076
+currentMills:7083
+currentMills:7089
+currentMills:7094
+currentMills:7100
+currentMills:7107
+currentMills:7117
+currentMills:7135
+currentMills:7142
+currentMills:7147
+currentMills:7159
+currentMills:7165
+currentMills:7174
+currentMills:7181
+currentMills:7189
+currentMills:7203
+currentMills:7211
+currentMills:7304
+currentMills:8149
+currentMills:8902
+currentMills:9655
+currentMills:10408
+exists!!
+in pekall home or list
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.pekall.test.mdmui.SetUp
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: test=setup
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: stream=
+Test results for WatcherResultPrinter=.
+Time: 94.85
+
+OK (1 test)
+
+
+INSTRUMENTATION_STATUS_CODE: -1

@@ -1,0 +1,54 @@
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.pekall.test.mdmui.Email
+INSTRUMENTATION_STATUS: stream=
+com.pekall.test.mdmui.Email:
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: test=checkEmailConfigReceived
+INSTRUMENTATION_STATUS_CODE: 1
+swipe to unlock
+not in pekall
+go Pekall
+go Apps
+not in apps
+go home
+not in pekall
+not in home
+source: Apps
+\u41\u70\u70\u73
+Apps\u41\u70\u70\u73
+not in home
+source: Apps
+\u41\u70\u70\u73
+Apps\u41\u70\u70\u73
+Apps
+Rect(0, 50 - 142, 154)
+maxSwipes:2
+continue to swipe
+continue to swipe
+not need login 
+in pekall
+Email in pekall list or home
+Email
+Rect(370, 608 - 530, 808)
+my Wait for exists
+currentMills:0
+exists!!
+my Wait for exists
+currentMills:0
+exists!!
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.pekall.test.mdmui.Email
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: test=checkEmailConfigReceived
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: stream=
+Test results for WatcherResultPrinter=.
+Time: 34.5
+
+OK (1 test)
+
+
+INSTRUMENTATION_STATUS_CODE: -1

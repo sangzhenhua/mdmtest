@@ -1,0 +1,138 @@
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.pekall.test.mdmui.Device
+INSTRUMENTATION_STATUS: stream=
+com.pekall.test.mdmui.Device:
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: test=checkCompanyDataCleared
+INSTRUMENTATION_STATUS_CODE: 1
+device get in outside:com.android.uiautomator.core.UiDevice@4183e970
+swipe to unlock
+in pekall
+my Wait for exists
+currentMills:0
+currentMills:10
+currentMills:19
+currentMills:34
+currentMills:45
+currentMills:53
+currentMills:64
+currentMills:72
+currentMills:82
+currentMills:90
+currentMills:101
+currentMills:112
+currentMills:157
+currentMills:167
+currentMills:175
+currentMills:183
+currentMills:596
+currentMills:604
+currentMills:613
+currentMills:623
+currentMills:630
+currentMills:639
+currentMills:646
+currentMills:654
+currentMills:663
+currentMills:670
+currentMills:686
+currentMills:693
+currentMills:701
+currentMills:708
+currentMills:716
+currentMills:730
+currentMills:744
+currentMills:751
+currentMills:760
+currentMills:767
+currentMills:775
+currentMills:783
+currentMills:790
+currentMills:797
+currentMills:805
+currentMills:812
+currentMills:819
+currentMills:826
+currentMills:833
+currentMills:841
+currentMills:858
+currentMills:865
+currentMills:873
+currentMills:889
+currentMills:897
+currentMills:904
+currentMills:913
+currentMills:921
+currentMills:928
+currentMills:935
+currentMills:942
+currentMills:950
+currentMills:957
+currentMills:964
+currentMills:971
+currentMills:979
+currentMills:986
+currentMills:993
+currentMills:1001
+currentMills:1008
+currentMills:1016
+currentMills:1023
+currentMills:1030
+currentMills:1038
+currentMills:1046
+currentMills:1053
+currentMills:1060
+currentMills:1067
+currentMills:1075
+currentMills:1082
+currentMills:1089
+currentMills:1096
+currentMills:1104
+currentMills:1111
+currentMills:1118
+currentMills:1126
+currentMills:1133
+currentMills:1140
+currentMills:1323
+currentMills:1342
+currentMills:4086
+currentMills:4696
+currentMills:5487
+currentMills:5505
+currentMills:5514
+currentMills:5523
+currentMills:5531
+currentMills:5539
+currentMills:5548
+currentMills:5556
+currentMills:5563
+currentMills:5573
+currentMills:5582
+currentMills:5590
+currentMills:5598
+currentMills:6218
+currentMills:6239
+currentMills:8914
+currentMills:9404
+currentMills:10742
+currentMills:10765
+currentMills:10788
+currentMills:11005
+currentMills:11055
+exists!!
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.pekall.test.mdmui.Device
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: test=checkCompanyDataCleared
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: stream=
+Test results for WatcherResultPrinter=.
+Time: 15.391
+
+OK (1 test)
+
+
+INSTRUMENTATION_STATUS_CODE: -1

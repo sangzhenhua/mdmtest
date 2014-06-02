@@ -1,0 +1,43 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] Using the builder org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder with a thread count of 1
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building maventest 0.0.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ maventest ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\workspace\MDMTest\src\main\resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:2.5.1:compile (default-compile) @ maventest ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ maventest ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\workspace\MDMTest\src\test\resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:2.5.1:testCompile (default-testCompile) @ maventest ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ maventest ---
+[INFO] Surefire report directory: E:\workspace\MDMTest\target\surefire-reports
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running com.pekall.test.mdm.RunCukesTest
+beforeall
+[Ljava.io.File;@48e18517
+true
+true
+true
+true
+after
+
+5 Scenarios ([32m5 passed[0m)
+17 Steps ([32m17 passed[0m)
+0m53.921s
+
+Tests run: 22, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 56.189 sec
+ÖÕÖ¹Åú´¦Àí²Ù×÷Âð(Y/N)? 

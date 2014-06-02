@@ -1,0 +1,96 @@
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.pekall.test.mdmui.SetUp
+INSTRUMENTATION_STATUS: stream=
+com.pekall.test.mdmui.SetUp:
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: test=loginPekall
+INSTRUMENTATION_STATUS_CODE: 1
+Not found ANR!
+Not found ANR!
+swipe to unlock
+Not found ANR!
+Not found ANR!
+Not found ANR!
+not in pekall
+go Pekall
+Not found ANR!
+go Apps
+Not found ANR!
+not in apps
+go home
+Not found ANR!
+Not found ANR!
+not in pekall
+Not found ANR!
+not in home
+source: Apps
+\u41\u70\u70\u73
+Apps\u41\u70\u70\u73
+Not found ANR!
+Not found ANR!
+Not found ANR!
+Not found ANR!
+-----------------------------Found ANR and click okButton!----------------------
+not in home
+source: Apps
+\u41\u70\u70\u73
+Apps\u41\u70\u70\u73
+Not found ANR!
+Not found ANR!
+Not found ANR!
+Apps
+Rect(0, 50 - 142, 154)
+maxSwipes:2
+Not found ANR!
+Not found ANR!
+continue to swipe
+Not found ANR!
+continue to swipe
+login after clear company data
+Not found ANR!
+Not found ANR!
+my Wait for exists
+currentMills:0
+Not found ANR!
+currentMills:1336
+Not found ANR!
+currentMills:1361
+Not found ANR!
+currentMills:1379
+Not found ANR!
+currentMills:1397
+Not found ANR!
+currentMills:1414
+Not found ANR!
+currentMills:1926
+Not found ANR!
+currentMills:1958
+Not found ANR!
+currentMills:1992
+Not found ANR!
+currentMills:2016
+Not found ANR!
+currentMills:2037
+Not found ANR!
+currentMills:2147
+Not found ANR!
+currentMills:3854
+Not found ANR!
+currentMills:5410
+exists!!
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.pekall.test.mdmui.SetUp
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: test=loginPekall
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: stream=
+Test results for WatcherResultPrinter=.
+Time: 60.651
+
+OK (1 test)
+
+
+INSTRUMENTATION_STATUS_CODE: -1

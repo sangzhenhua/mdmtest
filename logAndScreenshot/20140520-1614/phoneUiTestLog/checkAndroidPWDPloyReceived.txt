@@ -1,0 +1,601 @@
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.pekall.test.mdmui.PloyAndConfig
+INSTRUMENTATION_STATUS: stream=
+com.pekall.test.mdmui.PloyAndConfig:
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: test=checkAndroidPWDPloyReceived
+INSTRUMENTATION_STATUS_CODE: 1
+Not found ANR!
+Not found ANR!
+swipe to unlock
+Not found ANR!
+Not found ANR!
+my notification Wait for exists
+currentMills:0
+Not found ANR!
+currentMills:52
+Not found ANR!
+currentMills:99
+Not found ANR!
+currentMills:155
+Not found ANR!
+currentMills:221
+Not found ANR!
+currentMills:277
+Not found ANR!
+currentMills:321
+Not found ANR!
+currentMills:363
+Not found ANR!
+currentMills:412
+Not found ANR!
+currentMills:2098
+Not found ANR!
+currentMills:2188
+Not found ANR!
+currentMills:2283
+Not found ANR!
+currentMills:2367
+Not found ANR!
+currentMills:2453
+Not found ANR!
+currentMills:2547
+Not found ANR!
+currentMills:2641
+Not found ANR!
+currentMills:2733
+Not found ANR!
+currentMills:2821
+Not found ANR!
+currentMills:2914
+Not found ANR!
+currentMills:3000
+Not found ANR!
+currentMills:3086
+Not found ANR!
+currentMills:3174
+Not found ANR!
+currentMills:3257
+Not found ANR!
+currentMills:3343
+Not found ANR!
+currentMills:3439
+Not found ANR!
+currentMills:3524
+Not found ANR!
+currentMills:3617
+Not found ANR!
+currentMills:3708
+Not found ANR!
+currentMills:3797
+Not found ANR!
+currentMills:3881
+Not found ANR!
+currentMills:3966
+Not found ANR!
+currentMills:4054
+Not found ANR!
+currentMills:4148
+Not found ANR!
+currentMills:4263
+Not found ANR!
+currentMills:4368
+Not found ANR!
+currentMills:4445
+Not found ANR!
+currentMills:4519
+Not found ANR!
+currentMills:4593
+Not found ANR!
+currentMills:4678
+Not found ANR!
+currentMills:4771
+Not found ANR!
+currentMills:4857
+Not found ANR!
+currentMills:4941
+Not found ANR!
+currentMills:5017
+Not found ANR!
+currentMills:5102
+Not found ANR!
+currentMills:5181
+Not found ANR!
+currentMills:5312
+Not found ANR!
+currentMills:5384
+Not found ANR!
+currentMills:5475
+Not found ANR!
+currentMills:5572
+Not found ANR!
+currentMills:5911
+Not found ANR!
+currentMills:6282
+Not found ANR!
+currentMills:6363
+Not found ANR!
+currentMills:6450
+Not found ANR!
+currentMills:6570
+Not found ANR!
+currentMills:6670
+Not found ANR!
+currentMills:6756
+Not found ANR!
+currentMills:6839
+Not found ANR!
+currentMills:6910
+Not found ANR!
+currentMills:6973
+Not found ANR!
+currentMills:7063
+Not found ANR!
+currentMills:7170
+Not found ANR!
+currentMills:7258
+Not found ANR!
+currentMills:7347
+Not found ANR!
+currentMills:9756
+Not found ANR!
+currentMills:9873
+Not found ANR!
+currentMills:9952
+Not found ANR!
+currentMills:10038
+Not found ANR!
+currentMills:10200
+Not found ANR!
+currentMills:10319
+Not found ANR!
+currentMills:10428
+Not found ANR!
+currentMills:10535
+Not found ANR!
+currentMills:10623
+Not found ANR!
+currentMills:10724
+Not found ANR!
+currentMills:10819
+Not found ANR!
+currentMills:10917
+Not found ANR!
+currentMills:11047
+Not found ANR!
+currentMills:11130
+Not found ANR!
+currentMills:11193
+Not found ANR!
+currentMills:11244
+Not found ANR!
+currentMills:11299
+Not found ANR!
+currentMills:11376
+Not found ANR!
+currentMills:11460
+Not found ANR!
+currentMills:11540
+Not found ANR!
+currentMills:11631
+Not found ANR!
+currentMills:12282
+Not found ANR!
+currentMills:12334
+Not found ANR!
+currentMills:12381
+Not found ANR!
+currentMills:12451
+Not found ANR!
+currentMills:12506
+Not found ANR!
+currentMills:13064
+Not found ANR!
+currentMills:13117
+Not found ANR!
+currentMills:13164
+Not found ANR!
+currentMills:13217
+Not found ANR!
+currentMills:13263
+Not found ANR!
+currentMills:13315
+Not found ANR!
+currentMills:13367
+Not found ANR!
+currentMills:13415
+Not found ANR!
+currentMills:13485
+Not found ANR!
+currentMills:13534
+Not found ANR!
+currentMills:13587
+Not found ANR!
+currentMills:13640
+Not found ANR!
+currentMills:13687
+Not found ANR!
+currentMills:13740
+Not found ANR!
+currentMills:13787
+Not found ANR!
+currentMills:13840
+Not found ANR!
+currentMills:13893
+Not found ANR!
+currentMills:13939
+Not found ANR!
+currentMills:13994
+Not found ANR!
+currentMills:14041
+Not found ANR!
+currentMills:14094
+Not found ANR!
+currentMills:14147
+Not found ANR!
+currentMills:14195
+Not found ANR!
+currentMills:14249
+Not found ANR!
+currentMills:14320
+Not found ANR!
+currentMills:14374
+Not found ANR!
+currentMills:14426
+Not found ANR!
+currentMills:14474
+Not found ANR!
+currentMills:14527
+Not found ANR!
+currentMills:14574
+Not found ANR!
+currentMills:14625
+Not found ANR!
+currentMills:14678
+Not found ANR!
+currentMills:14726
+Not found ANR!
+currentMills:14797
+Not found ANR!
+currentMills:14857
+Not found ANR!
+currentMills:14912
+Not found ANR!
+currentMills:14966
+Not found ANR!
+currentMills:15013
+Not found ANR!
+currentMills:15066
+Not found ANR!
+currentMills:15141
+Not found ANR!
+currentMills:15265
+Not found ANR!
+currentMills:15358
+Not found ANR!
+currentMills:15407
+Not found ANR!
+currentMills:15462
+Not found ANR!
+currentMills:15508
+Not found ANR!
+currentMills:15561
+Not found ANR!
+currentMills:15608
+Not found ANR!
+currentMills:15660
+Not found ANR!
+currentMills:15712
+Not found ANR!
+currentMills:15758
+Not found ANR!
+currentMills:15812
+Not found ANR!
+currentMills:15858
+Not found ANR!
+currentMills:15918
+Not found ANR!
+currentMills:15966
+Not found ANR!
+currentMills:16017
+Not found ANR!
+currentMills:16084
+Not found ANR!
+currentMills:16131
+Not found ANR!
+currentMills:16185
+Not found ANR!
+currentMills:16241
+Not found ANR!
+currentMills:16290
+Not found ANR!
+currentMills:16343
+Not found ANR!
+currentMills:16392
+Not found ANR!
+currentMills:16447
+Not found ANR!
+currentMills:16494
+Not found ANR!
+currentMills:16550
+Not found ANR!
+currentMills:16603
+Not found ANR!
+currentMills:16658
+Not found ANR!
+currentMills:16738
+Not found ANR!
+currentMills:16809
+Not found ANR!
+currentMills:16945
+Not found ANR!
+currentMills:17041
+Not found ANR!
+currentMills:17088
+Not found ANR!
+currentMills:17200
+Not found ANR!
+currentMills:17280
+Not found ANR!
+currentMills:17375
+Not found ANR!
+currentMills:17475
+Not found ANR!
+currentMills:17563
+Not found ANR!
+currentMills:17659
+Not found ANR!
+currentMills:17750
+Not found ANR!
+currentMills:17843
+Not found ANR!
+currentMills:17943
+Not found ANR!
+currentMills:18031
+Not found ANR!
+currentMills:18124
+Not found ANR!
+currentMills:18218
+Not found ANR!
+currentMills:18303
+Not found ANR!
+currentMills:18388
+Not found ANR!
+currentMills:18467
+Not found ANR!
+currentMills:18537
+Not found ANR!
+currentMills:18618
+Not found ANR!
+currentMills:18709
+Not found ANR!
+currentMills:18810
+Not found ANR!
+currentMills:18895
+Not found ANR!
+currentMills:19014
+Not found ANR!
+currentMills:19138
+Not found ANR!
+currentMills:19221
+Not found ANR!
+currentMills:19306
+Not found ANR!
+currentMills:19392
+Not found ANR!
+currentMills:19476
+Not found ANR!
+currentMills:19568
+Not found ANR!
+currentMills:19640
+Not found ANR!
+currentMills:19733
+Not found ANR!
+currentMills:19826
+Not found ANR!
+currentMills:19904
+Not found ANR!
+currentMills:19995
+Not found ANR!
+currentMills:20092
+Not found ANR!
+currentMills:20187
+Not found ANR!
+currentMills:20266
+Not found ANR!
+currentMills:20355
+Not found ANR!
+currentMills:20430
+Not found ANR!
+currentMills:20529
+Not found ANR!
+currentMills:20660
+Not found ANR!
+currentMills:20741
+Not found ANR!
+currentMills:20833
+Not found ANR!
+currentMills:20913
+Not found ANR!
+currentMills:21005
+Not found ANR!
+currentMills:21094
+Not found ANR!
+currentMills:21452
+Not found ANR!
+currentMills:21570
+Not found ANR!
+currentMills:21663
+Not found ANR!
+currentMills:21763
+Not found ANR!
+currentMills:21843
+Not found ANR!
+currentMills:21938
+Not found ANR!
+currentMills:22030
+Not found ANR!
+currentMills:22119
+Not found ANR!
+currentMills:22216
+Not found ANR!
+currentMills:22301
+Not found ANR!
+currentMills:22399
+Not found ANR!
+currentMills:22526
+Not found ANR!
+currentMills:23196
+Not found ANR!
+currentMills:23281
+Not found ANR!
+currentMills:23373
+Not found ANR!
+currentMills:23488
+Not found ANR!
+currentMills:23588
+Not found ANR!
+currentMills:23677
+Not found ANR!
+currentMills:23757
+Not found ANR!
+currentMills:23843
+Not found ANR!
+currentMills:23931
+Not found ANR!
+currentMills:24002
+Not found ANR!
+currentMills:24092
+Not found ANR!
+currentMills:24187
+Not found ANR!
+currentMills:24280
+Not found ANR!
+currentMills:24374
+Not found ANR!
+currentMills:24467
+Not found ANR!
+currentMills:25466
+Not found ANR!
+currentMills:25527
+Not found ANR!
+currentMills:25573
+Not found ANR!
+currentMills:25640
+Not found ANR!
+currentMills:25699
+Not found ANR!
+currentMills:25757
+Not found ANR!
+currentMills:26799
+Not found ANR!
+currentMills:26891
+Not found ANR!
+currentMills:26983
+Not found ANR!
+currentMills:27078
+Not found ANR!
+currentMills:27170
+Not found ANR!
+currentMills:27256
+Not found ANR!
+currentMills:27350
+Not found ANR!
+currentMills:27429
+Not found ANR!
+currentMills:27523
+Not found ANR!
+currentMills:27614
+Not found ANR!
+currentMills:27703
+Not found ANR!
+currentMills:27800
+Not found ANR!
+currentMills:27882
+Not found ANR!
+currentMills:27985
+Not found ANR!
+currentMills:28069
+Not found ANR!
+currentMills:28156
+Not found ANR!
+currentMills:28257
+Not found ANR!
+currentMills:28350
+Not found ANR!
+currentMills:28443
+Not found ANR!
+currentMills:28530
+Not found ANR!
+currentMills:28612
+Not found ANR!
+currentMills:28694
+Not found ANR!
+currentMills:28770
+Not found ANR!
+currentMills:28865
+Not found ANR!
+currentMills:28929
+Not found ANR!
+currentMills:29013
+Not found ANR!
+currentMills:29101
+Not found ANR!
+currentMills:29185
+Not found ANR!
+currentMills:29280
+Not found ANR!
+currentMills:29359
+Not found ANR!
+currentMills:29457
+Not found ANR!
+currentMills:29552
+Not found ANR!
+currentMills:29675
+Not found ANR!
+currentMills:29856
+Not found ANR!
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.pekall.test.mdmui.PloyAndConfig
+INSTRUMENTATION_STATUS: stream=
+Failure in checkAndroidPWDPloyReceived:
+junit.framework.AssertionFailedError: unable receive android password ploy
+	at com.pekall.test.mdmui.util.MyAssert.assert_True(MyAssert.java:21)
+	at com.pekall.test.mdmui.galaxyPhone.GalaxyNotificationManager.checkAndroidPWDPloyReceived(GalaxyNotificationManager.java:45)
+	at com.pekall.test.mdmui.PloyAndConfig.checkAndroidPWDPloyReceived(PloyAndConfig.java:26)
+	at java.lang.reflect.Method.invokeNative(Native Method)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:235)
+	at dalvik.system.NativeStart.main(Native Method)
+
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stack=junit.framework.AssertionFailedError: unable receive android password ploy
+	at com.pekall.test.mdmui.util.MyAssert.assert_True(MyAssert.java:21)
+	at com.pekall.test.mdmui.galaxyPhone.GalaxyNotificationManager.checkAndroidPWDPloyReceived(GalaxyNotificationManager.java:45)
+	at com.pekall.test.mdmui.PloyAndConfig.checkAndroidPWDPloyReceived(PloyAndConfig.java:26)
+	at java.lang.reflect.Method.invokeNative(Native Method)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:235)
+	at dalvik.system.NativeStart.main(Native Method)
+
+INSTRUMENTATION_STATUS: test=checkAndroidPWDPloyReceived
+INSTRUMENTATION_STATUS_CODE: -2
+INSTRUMENTATION_STATUS: stream=
+Test results for WatcherResultPrinter=.F
+Time: 32.076
+
+FAILURES!!!
+Tests run: 1,  Failures: 1,  Errors: 0
+
+
+INSTRUMENTATION_STATUS_CODE: -1

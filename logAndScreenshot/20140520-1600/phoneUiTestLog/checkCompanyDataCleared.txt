@@ -1,0 +1,400 @@
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.pekall.test.mdmui.Device
+INSTRUMENTATION_STATUS: stream=
+com.pekall.test.mdmui.Device:
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: test=checkCompanyDataCleared
+INSTRUMENTATION_STATUS_CODE: 1
+Not found ANR!
+Not found ANR!
+swipe to unlock
+Not found ANR!
+Not found ANR!
+Not found ANR!
+go Pekall
+Not found ANR!
+go Apps
+Not found ANR!
+not in apps
+go home
+Not found ANR!
+Not found ANR!
+not in pekall
+Not found ANR!
+not in home
+source: Apps
+\u41\u70\u70\u73
+Apps\u41\u70\u70\u73
+Not found ANR!
+Not found ANR!
+Not found ANR!
+Not found ANR!
+Apps
+Rect(0, 50 - 142, 154)
+maxSwipes:2
+Not found ANR!
+Not found ANR!
+continue to swipe
+Not found ANR!
+continue to swipe
+my Wait for exists
+currentMills:0
+Not found ANR!
+currentMills:3791
+Not found ANR!
+currentMills:3815
+Not found ANR!
+currentMills:3832
+Not found ANR!
+currentMills:3848
+Not found ANR!
+currentMills:3867
+Not found ANR!
+currentMills:3885
+Not found ANR!
+currentMills:3901
+Not found ANR!
+currentMills:3920
+Not found ANR!
+currentMills:3939
+Not found ANR!
+currentMills:3956
+Not found ANR!
+currentMills:3972
+Not found ANR!
+currentMills:3986
+Not found ANR!
+currentMills:4002
+Not found ANR!
+currentMills:4017
+Not found ANR!
+currentMills:4036
+Not found ANR!
+currentMills:4053
+Not found ANR!
+currentMills:4070
+Not found ANR!
+currentMills:4086
+Not found ANR!
+currentMills:4102
+Not found ANR!
+currentMills:4119
+Not found ANR!
+currentMills:4134
+Not found ANR!
+currentMills:4149
+Not found ANR!
+currentMills:4165
+Not found ANR!
+currentMills:4180
+Not found ANR!
+currentMills:4196
+Not found ANR!
+currentMills:4212
+Not found ANR!
+currentMills:4226
+Not found ANR!
+currentMills:4240
+Not found ANR!
+currentMills:4256
+Not found ANR!
+currentMills:4378
+Not found ANR!
+currentMills:6340
+Not found ANR!
+currentMills:7598
+Not found ANR!
+currentMills:7627
+Not found ANR!
+currentMills:7650
+Not found ANR!
+currentMills:7665
+Not found ANR!
+currentMills:8173
+Not found ANR!
+currentMills:8189
+Not found ANR!
+currentMills:8204
+Not found ANR!
+currentMills:8218
+Not found ANR!
+currentMills:8233
+Not found ANR!
+currentMills:8248
+Not found ANR!
+currentMills:8263
+Not found ANR!
+currentMills:8385
+Not found ANR!
+currentMills:10059
+Not found ANR!
+currentMills:11263
+Not found ANR!
+currentMills:11305
+Not found ANR!
+currentMills:11321
+Not found ANR!
+currentMills:11343
+Not found ANR!
+currentMills:11358
+Not found ANR!
+currentMills:11374
+Not found ANR!
+currentMills:11882
+Not found ANR!
+currentMills:11896
+Not found ANR!
+currentMills:11911
+Not found ANR!
+currentMills:11927
+Not found ANR!
+currentMills:11944
+Not found ANR!
+currentMills:11963
+Not found ANR!
+currentMills:12102
+Not found ANR!
+currentMills:14085
+Not found ANR!
+currentMills:14941
+Not found ANR!
+currentMills:14959
+Not found ANR!
+currentMills:14975
+Not found ANR!
+currentMills:14990
+Not found ANR!
+currentMills:15006
+Not found ANR!
+currentMills:15023
+Not found ANR!
+currentMills:15530
+Not found ANR!
+currentMills:15546
+Not found ANR!
+currentMills:15561
+Not found ANR!
+currentMills:15576
+Not found ANR!
+currentMills:15591
+Not found ANR!
+currentMills:15606
+Not found ANR!
+currentMills:15729
+Not found ANR!
+currentMills:17467
+Not found ANR!
+currentMills:18684
+Not found ANR!
+currentMills:18753
+Not found ANR!
+currentMills:18779
+Not found ANR!
+currentMills:18806
+Not found ANR!
+currentMills:19307
+Not found ANR!
+currentMills:19322
+Not found ANR!
+currentMills:19337
+Not found ANR!
+currentMills:19352
+Not found ANR!
+currentMills:19368
+Not found ANR!
+currentMills:19512
+Not found ANR!
+currentMills:22452
+Not found ANR!
+currentMills:22525
+Not found ANR!
+currentMills:22549
+Not found ANR!
+currentMills:22568
+Not found ANR!
+currentMills:22588
+Not found ANR!
+currentMills:22606
+Not found ANR!
+currentMills:22623
+Not found ANR!
+currentMills:22640
+Not found ANR!
+currentMills:22656
+Not found ANR!
+currentMills:22674
+Not found ANR!
+currentMills:22691
+Not found ANR!
+currentMills:22708
+Not found ANR!
+currentMills:22778
+Not found ANR!
+currentMills:22795
+Not found ANR!
+currentMills:22813
+Not found ANR!
+currentMills:22830
+Not found ANR!
+currentMills:22846
+Not found ANR!
+currentMills:22865
+Not found ANR!
+currentMills:22882
+Not found ANR!
+currentMills:22904
+Not found ANR!
+currentMills:22918
+Not found ANR!
+currentMills:22933
+Not found ANR!
+currentMills:22948
+Not found ANR!
+currentMills:22965
+Not found ANR!
+currentMills:22981
+Not found ANR!
+currentMills:22997
+Not found ANR!
+currentMills:23017
+Not found ANR!
+currentMills:23032
+Not found ANR!
+currentMills:23160
+Not found ANR!
+currentMills:25154
+Not found ANR!
+currentMills:27153
+Not found ANR!
+currentMills:27180
+Not found ANR!
+currentMills:27202
+Not found ANR!
+currentMills:27224
+Not found ANR!
+currentMills:27244
+Not found ANR!
+currentMills:27262
+Not found ANR!
+currentMills:27277
+Not found ANR!
+currentMills:27421
+Not found ANR!
+currentMills:29154
+Not found ANR!
+currentMills:30390
+Not found ANR!
+currentMills:30429
+Not found ANR!
+currentMills:30445
+Not found ANR!
+currentMills:30459
+Not found ANR!
+currentMills:30473
+Not found ANR!
+currentMills:30487
+Not found ANR!
+currentMills:30500
+Not found ANR!
+currentMills:31015
+Not found ANR!
+currentMills:31432
+Not found ANR!
+currentMills:33238
+Not found ANR!
+currentMills:34538
+Not found ANR!
+currentMills:34590
+Not found ANR!
+currentMills:34606
+Not found ANR!
+currentMills:34619
+Not found ANR!
+currentMills:34635
+Not found ANR!
+currentMills:34650
+Not found ANR!
+currentMills:35157
+Not found ANR!
+currentMills:35171
+Not found ANR!
+currentMills:35184
+Not found ANR!
+currentMills:35198
+Not found ANR!
+currentMills:35212
+Not found ANR!
+currentMills:35347
+Not found ANR!
+currentMills:37519
+Not found ANR!
+currentMills:38398
+Not found ANR!
+currentMills:38412
+Not found ANR!
+currentMills:38426
+Not found ANR!
+currentMills:38438
+Not found ANR!
+currentMills:38451
+Not found ANR!
+currentMills:38470
+Not found ANR!
+currentMills:38982
+Not found ANR!
+currentMills:38995
+Not found ANR!
+currentMills:39008
+Not found ANR!
+currentMills:39021
+Not found ANR!
+currentMills:39034
+Not found ANR!
+currentMills:39047
+Not found ANR!
+currentMills:39166
+Not found ANR!
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.pekall.test.mdmui.Device
+INSTRUMENTATION_STATUS: stream=
+Failure in checkCompanyDataCleared:
+junit.framework.AssertionFailedError: unable clear company data
+	at com.pekall.test.mdmui.util.MyAssert.assert_True(MyAssert.java:21)
+	at com.pekall.test.mdmui.galaxyPhone.GalaxyPekallManager.checkCompanyDataCleared(GalaxyPekallManager.java:175)
+	at com.pekall.test.mdmui.Device.checkCompanyDataCleared(Device.java:29)
+	at java.lang.reflect.Method.invokeNative(Native Method)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:235)
+	at dalvik.system.NativeStart.main(Native Method)
+
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stack=junit.framework.AssertionFailedError: unable clear company data
+	at com.pekall.test.mdmui.util.MyAssert.assert_True(MyAssert.java:21)
+	at com.pekall.test.mdmui.galaxyPhone.GalaxyPekallManager.checkCompanyDataCleared(GalaxyPekallManager.java:175)
+	at com.pekall.test.mdmui.Device.checkCompanyDataCleared(Device.java:29)
+	at java.lang.reflect.Method.invokeNative(Native Method)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:235)
+	at dalvik.system.NativeStart.main(Native Method)
+
+INSTRUMENTATION_STATUS: test=checkCompanyDataCleared
+INSTRUMENTATION_STATUS_CODE: -2
+INSTRUMENTATION_STATUS: stream=
+Test results for WatcherResultPrinter=.F
+Time: 58.765
+
+FAILURES!!!
+Tests run: 1,  Failures: 1,  Errors: 0
+
+
+INSTRUMENTATION_STATUS_CODE: -1

@@ -1,0 +1,44 @@
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.pekall.test.mdmui.PloyAndConfig
+INSTRUMENTATION_STATUS: stream=
+com.pekall.test.mdmui.PloyAndConfig:
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: test=checkAndroidPWDPloyReceived
+INSTRUMENTATION_STATUS_CODE: 1
+swipe to unlock
+my notification Wait for exists
+currentMills:0
+currentMills:24
+currentMills:49
+currentMills:72
+currentMills:116
+currentMills:132
+currentMills:163
+currentMills:186
+currentMills:202
+currentMills:226
+currentMills:244
+exists!!
+isFirst:true
+newPWD:07047w
+Set password
+Rect(144, 258 - 601, 306)
+Password
+Rect(48, 896 - 209, 944)
+password not meet requirement
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.pekall.test.mdmui.PloyAndConfig
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: test=checkAndroidPWDPloyReceived
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: stream=
+Test results for WatcherResultPrinter=.
+Time: 11.452
+
+OK (1 test)
+
+
+INSTRUMENTATION_STATUS_CODE: -1

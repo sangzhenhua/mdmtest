@@ -1,0 +1,34 @@
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.pekall.test.mdmui.Contacts
+INSTRUMENTATION_STATUS: stream=
+com.pekall.test.mdmui.Contacts:
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: test=checkContactsDeleted
+INSTRUMENTATION_STATUS_CODE: 1
+swipe to unlock
+already in pekall contacts
+in pekall
+EmdmContacts  not in pekall list
+not in pekall home or list
+not need login 
+in pekall home
+EmdmContacts
+Rect(550, 608 - 710, 808)
+company
+Rect(20, 1111 - 365, 1164)
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.pekall.test.mdmui.Contacts
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: test=checkContactsDeleted
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: stream=
+Test results for WatcherResultPrinter=.
+Time: 13.486
+
+OK (1 test)
+
+
+INSTRUMENTATION_STATUS_CODE: -1

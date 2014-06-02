@@ -1,0 +1,85 @@
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.pekall.test.mdmui.Device
+INSTRUMENTATION_STATUS: stream=
+com.pekall.test.mdmui.Device:
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: test=checkLocked
+INSTRUMENTATION_STATUS_CODE: 1
+my Wait for exists
+currentMills:0
+currentMills:370
+currentMills:511
+currentMills:649
+currentMills:1104
+currentMills:1146
+currentMills:1215
+currentMills:1299
+currentMills:1370
+currentMills:1456
+currentMills:1577
+currentMills:1729
+currentMills:1773
+currentMills:1826
+currentMills:1869
+currentMills:1922
+currentMills:1979
+currentMills:2015
+currentMills:2078
+currentMills:2141
+currentMills:2172
+currentMills:2208
+currentMills:2263
+currentMills:2307
+currentMills:2360
+currentMills:2426
+currentMills:2475
+currentMills:2540
+currentMills:2582
+currentMills:2628
+currentMills:2700
+currentMills:3293
+currentMills:3317
+currentMills:3336
+currentMills:3354
+currentMills:3371
+currentMills:3389
+currentMills:3411
+currentMills:3428
+currentMills:3457
+currentMills:3475
+currentMills:3495
+currentMills:3514
+currentMills:3532
+currentMills:3547
+currentMills:3563
+currentMills:3579
+currentMills:3594
+currentMills:3614
+currentMills:3630
+currentMills:3647
+currentMills:3666
+currentMills:3681
+currentMills:3706
+currentMills:3732
+currentMills:3747
+currentMills:3777
+currentMills:3794
+currentMills:3816
+currentMills:3846
+exists!!
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.pekall.test.mdmui.Device
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: test=checkLocked
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: stream=
+Test results for WatcherResultPrinter=.
+Time: 23.679
+
+OK (1 test)
+
+
+INSTRUMENTATION_STATUS_CODE: -1

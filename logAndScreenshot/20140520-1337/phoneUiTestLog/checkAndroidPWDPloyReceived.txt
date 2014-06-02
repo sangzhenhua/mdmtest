@@ -1,0 +1,1147 @@
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.pekall.test.mdmui.PloyAndConfig
+INSTRUMENTATION_STATUS: stream=
+com.pekall.test.mdmui.PloyAndConfig:
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: test=checkAndroidPWDPloyReceived
+INSTRUMENTATION_STATUS_CODE: 1
+device in message:com.android.uiautomator.core.UiDevice@419c00e0
+swipe to unlock
+my Wait for exists
+wake up
+currentMills:0
+systemclock.uptimeMillis()-wakeupMills=22
+currentMills:22
+systemclock.uptimeMillis()-wakeupMills=59
+currentMills:59
+systemclock.uptimeMillis()-wakeupMills=82
+currentMills:83
+systemclock.uptimeMillis()-wakeupMills=109
+currentMills:110
+systemclock.uptimeMillis()-wakeupMills=139
+currentMills:140
+systemclock.uptimeMillis()-wakeupMills=165
+currentMills:167
+systemclock.uptimeMillis()-wakeupMills=197
+currentMills:199
+systemclock.uptimeMillis()-wakeupMills=222
+currentMills:224
+systemclock.uptimeMillis()-wakeupMills=247
+currentMills:248
+systemclock.uptimeMillis()-wakeupMills=270
+currentMills:270
+systemclock.uptimeMillis()-wakeupMills=289
+currentMills:290
+systemclock.uptimeMillis()-wakeupMills=307
+currentMills:308
+systemclock.uptimeMillis()-wakeupMills=1004
+wake up in wait
+wake up
+currentMills:1004
+systemclock.uptimeMillis()-wakeupMills=605
+wake up in wait
+wake up
+currentMills:1609
+systemclock.uptimeMillis()-wakeupMills=26
+currentMills:1635
+systemclock.uptimeMillis()-wakeupMills=51
+currentMills:1660
+systemclock.uptimeMillis()-wakeupMills=75
+currentMills:1684
+systemclock.uptimeMillis()-wakeupMills=99
+currentMills:1708
+systemclock.uptimeMillis()-wakeupMills=123
+currentMills:1733
+systemclock.uptimeMillis()-wakeupMills=146
+currentMills:1755
+systemclock.uptimeMillis()-wakeupMills=184
+currentMills:1794
+systemclock.uptimeMillis()-wakeupMills=208
+currentMills:1817
+systemclock.uptimeMillis()-wakeupMills=231
+currentMills:1840
+systemclock.uptimeMillis()-wakeupMills=254
+currentMills:1863
+systemclock.uptimeMillis()-wakeupMills=283
+currentMills:1892
+systemclock.uptimeMillis()-wakeupMills=309
+currentMills:1918
+systemclock.uptimeMillis()-wakeupMills=333
+currentMills:1942
+systemclock.uptimeMillis()-wakeupMills=360
+currentMills:1969
+systemclock.uptimeMillis()-wakeupMills=385
+currentMills:1994
+systemclock.uptimeMillis()-wakeupMills=408
+currentMills:2017
+systemclock.uptimeMillis()-wakeupMills=431
+currentMills:2040
+systemclock.uptimeMillis()-wakeupMills=458
+currentMills:2067
+systemclock.uptimeMillis()-wakeupMills=481
+currentMills:2091
+systemclock.uptimeMillis()-wakeupMills=505
+wake up in wait
+wake up
+currentMills:2115
+systemclock.uptimeMillis()-wakeupMills=24
+currentMills:2139
+systemclock.uptimeMillis()-wakeupMills=57
+currentMills:2173
+systemclock.uptimeMillis()-wakeupMills=107
+currentMills:2222
+systemclock.uptimeMillis()-wakeupMills=144
+currentMills:2260
+systemclock.uptimeMillis()-wakeupMills=178
+currentMills:2294
+systemclock.uptimeMillis()-wakeupMills=209
+currentMills:2325
+systemclock.uptimeMillis()-wakeupMills=251
+currentMills:2366
+systemclock.uptimeMillis()-wakeupMills=276
+currentMills:2391
+systemclock.uptimeMillis()-wakeupMills=300
+currentMills:2415
+systemclock.uptimeMillis()-wakeupMills=323
+currentMills:2438
+systemclock.uptimeMillis()-wakeupMills=469
+currentMills:2584
+systemclock.uptimeMillis()-wakeupMills=1369
+wake up in wait
+wake up
+currentMills:3484
+systemclock.uptimeMillis()-wakeupMills=832
+wake up in wait
+wake up
+currentMills:4316
+systemclock.uptimeMillis()-wakeupMills=55
+currentMills:4371
+systemclock.uptimeMillis()-wakeupMills=94
+currentMills:4410
+systemclock.uptimeMillis()-wakeupMills=137
+currentMills:4453
+systemclock.uptimeMillis()-wakeupMills=159
+currentMills:4475
+systemclock.uptimeMillis()-wakeupMills=182
+currentMills:4498
+systemclock.uptimeMillis()-wakeupMills=204
+currentMills:4520
+systemclock.uptimeMillis()-wakeupMills=227
+currentMills:4543
+systemclock.uptimeMillis()-wakeupMills=265
+currentMills:4582
+systemclock.uptimeMillis()-wakeupMills=304
+currentMills:4620
+systemclock.uptimeMillis()-wakeupMills=342
+currentMills:4658
+systemclock.uptimeMillis()-wakeupMills=380
+currentMills:4697
+systemclock.uptimeMillis()-wakeupMills=419
+currentMills:4735
+systemclock.uptimeMillis()-wakeupMills=496
+currentMills:4812
+systemclock.uptimeMillis()-wakeupMills=535
+wake up in wait
+wake up
+currentMills:4862
+systemclock.uptimeMillis()-wakeupMills=48
+currentMills:4900
+systemclock.uptimeMillis()-wakeupMills=87
+currentMills:4939
+systemclock.uptimeMillis()-wakeupMills=114
+currentMills:4966
+systemclock.uptimeMillis()-wakeupMills=135
+currentMills:4988
+systemclock.uptimeMillis()-wakeupMills=159
+currentMills:5011
+systemclock.uptimeMillis()-wakeupMills=190
+currentMills:5042
+systemclock.uptimeMillis()-wakeupMills=216
+currentMills:5069
+systemclock.uptimeMillis()-wakeupMills=239
+currentMills:5091
+systemclock.uptimeMillis()-wakeupMills=261
+currentMills:5113
+systemclock.uptimeMillis()-wakeupMills=303
+currentMills:5155
+systemclock.uptimeMillis()-wakeupMills=343
+currentMills:5195
+systemclock.uptimeMillis()-wakeupMills=390
+currentMills:5242
+systemclock.uptimeMillis()-wakeupMills=433
+currentMills:5292
+systemclock.uptimeMillis()-wakeupMills=491
+currentMills:5343
+systemclock.uptimeMillis()-wakeupMills=554
+wake up in wait
+wake up
+currentMills:5409
+systemclock.uptimeMillis()-wakeupMills=37
+currentMills:5445
+systemclock.uptimeMillis()-wakeupMills=294
+currentMills:5701
+systemclock.uptimeMillis()-wakeupMills=593
+wake up in wait
+wake up
+currentMills:6096
+systemclock.uptimeMillis()-wakeupMills=138
+currentMills:6138
+systemclock.uptimeMillis()-wakeupMills=189
+currentMills:6189
+systemclock.uptimeMillis()-wakeupMills=215
+currentMills:6215
+systemclock.uptimeMillis()-wakeupMills=259
+currentMills:6259
+systemclock.uptimeMillis()-wakeupMills=302
+currentMills:6302
+systemclock.uptimeMillis()-wakeupMills=344
+currentMills:6344
+systemclock.uptimeMillis()-wakeupMills=383
+currentMills:6384
+systemclock.uptimeMillis()-wakeupMills=421
+currentMills:6422
+systemclock.uptimeMillis()-wakeupMills=460
+currentMills:6460
+systemclock.uptimeMillis()-wakeupMills=508
+wake up in wait
+wake up
+currentMills:6510
+systemclock.uptimeMillis()-wakeupMills=67
+currentMills:6576
+systemclock.uptimeMillis()-wakeupMills=109
+currentMills:6617
+systemclock.uptimeMillis()-wakeupMills=151
+currentMills:6659
+systemclock.uptimeMillis()-wakeupMills=190
+currentMills:6698
+systemclock.uptimeMillis()-wakeupMills=212
+currentMills:6720
+systemclock.uptimeMillis()-wakeupMills=234
+currentMills:6742
+systemclock.uptimeMillis()-wakeupMills=277
+currentMills:6785
+systemclock.uptimeMillis()-wakeupMills=314
+currentMills:6822
+systemclock.uptimeMillis()-wakeupMills=352
+currentMills:6860
+systemclock.uptimeMillis()-wakeupMills=390
+currentMills:6898
+systemclock.uptimeMillis()-wakeupMills=416
+currentMills:6924
+systemclock.uptimeMillis()-wakeupMills=454
+currentMills:6963
+systemclock.uptimeMillis()-wakeupMills=509
+wake up in wait
+wake up
+currentMills:7019
+systemclock.uptimeMillis()-wakeupMills=47
+currentMills:7065
+systemclock.uptimeMillis()-wakeupMills=228
+currentMills:7247
+systemclock.uptimeMillis()-wakeupMills=267
+currentMills:7286
+systemclock.uptimeMillis()-wakeupMills=299
+currentMills:7317
+systemclock.uptimeMillis()-wakeupMills=342
+currentMills:7360
+systemclock.uptimeMillis()-wakeupMills=388
+currentMills:7406
+systemclock.uptimeMillis()-wakeupMills=426
+currentMills:7445
+systemclock.uptimeMillis()-wakeupMills=466
+currentMills:7484
+systemclock.uptimeMillis()-wakeupMills=509
+wake up in wait
+wake up
+currentMills:7528
+systemclock.uptimeMillis()-wakeupMills=39
+currentMills:7566
+systemclock.uptimeMillis()-wakeupMills=76
+currentMills:7603
+systemclock.uptimeMillis()-wakeupMills=119
+currentMills:7647
+systemclock.uptimeMillis()-wakeupMills=154
+currentMills:7681
+systemclock.uptimeMillis()-wakeupMills=200
+currentMills:7727
+systemclock.uptimeMillis()-wakeupMills=238
+currentMills:7765
+systemclock.uptimeMillis()-wakeupMills=268
+currentMills:7795
+systemclock.uptimeMillis()-wakeupMills=320
+currentMills:7847
+systemclock.uptimeMillis()-wakeupMills=358
+currentMills:7886
+systemclock.uptimeMillis()-wakeupMills=397
+currentMills:7924
+systemclock.uptimeMillis()-wakeupMills=441
+currentMills:7968
+systemclock.uptimeMillis()-wakeupMills=484
+currentMills:8011
+systemclock.uptimeMillis()-wakeupMills=523
+wake up in wait
+wake up
+currentMills:8057
+systemclock.uptimeMillis()-wakeupMills=46
+currentMills:8096
+systemclock.uptimeMillis()-wakeupMills=85
+currentMills:8135
+systemclock.uptimeMillis()-wakeupMills=130
+currentMills:8180
+systemclock.uptimeMillis()-wakeupMills=160
+currentMills:8210
+systemclock.uptimeMillis()-wakeupMills=201
+currentMills:8251
+systemclock.uptimeMillis()-wakeupMills=254
+currentMills:8304
+systemclock.uptimeMillis()-wakeupMills=285
+currentMills:8335
+systemclock.uptimeMillis()-wakeupMills=326
+currentMills:8377
+systemclock.uptimeMillis()-wakeupMills=392
+currentMills:8443
+systemclock.uptimeMillis()-wakeupMills=424
+currentMills:8474
+systemclock.uptimeMillis()-wakeupMills=465
+currentMills:8515
+systemclock.uptimeMillis()-wakeupMills=669
+wake up in wait
+wake up
+currentMills:8720
+systemclock.uptimeMillis()-wakeupMills=335
+currentMills:9055
+systemclock.uptimeMillis()-wakeupMills=375
+currentMills:9094
+systemclock.uptimeMillis()-wakeupMills=414
+currentMills:9133
+systemclock.uptimeMillis()-wakeupMills=436
+currentMills:9155
+systemclock.uptimeMillis()-wakeupMills=457
+currentMills:9177
+systemclock.uptimeMillis()-wakeupMills=503
+wake up in wait
+wake up
+currentMills:9223
+systemclock.uptimeMillis()-wakeupMills=42
+currentMills:9265
+systemclock.uptimeMillis()-wakeupMills=72
+currentMills:9296
+systemclock.uptimeMillis()-wakeupMills=120
+currentMills:9343
+systemclock.uptimeMillis()-wakeupMills=153
+currentMills:9376
+systemclock.uptimeMillis()-wakeupMills=197
+currentMills:9420
+systemclock.uptimeMillis()-wakeupMills=227
+currentMills:9450
+systemclock.uptimeMillis()-wakeupMills=271
+currentMills:9494
+systemclock.uptimeMillis()-wakeupMills=300
+currentMills:9523
+systemclock.uptimeMillis()-wakeupMills=344
+currentMills:9567
+systemclock.uptimeMillis()-wakeupMills=382
+currentMills:9605
+systemclock.uptimeMillis()-wakeupMills=415
+currentMills:9638
+systemclock.uptimeMillis()-wakeupMills=457
+currentMills:9681
+systemclock.uptimeMillis()-wakeupMills=495
+currentMills:9718
+systemclock.uptimeMillis()-wakeupMills=534
+wake up in wait
+wake up
+currentMills:9760
+systemclock.uptimeMillis()-wakeupMills=44
+currentMills:9802
+systemclock.uptimeMillis()-wakeupMills=85
+currentMills:9844
+systemclock.uptimeMillis()-wakeupMills=124
+currentMills:9882
+systemclock.uptimeMillis()-wakeupMills=163
+currentMills:9921
+systemclock.uptimeMillis()-wakeupMills=189
+currentMills:9947
+systemclock.uptimeMillis()-wakeupMills=227
+currentMills:9985
+systemclock.uptimeMillis()-wakeupMills=249
+currentMills:10007
+systemclock.uptimeMillis()-wakeupMills=272
+currentMills:10030
+systemclock.uptimeMillis()-wakeupMills=296
+currentMills:10054
+systemclock.uptimeMillis()-wakeupMills=318
+currentMills:10076
+systemclock.uptimeMillis()-wakeupMills=339
+currentMills:10098
+systemclock.uptimeMillis()-wakeupMills=386
+currentMills:10144
+systemclock.uptimeMillis()-wakeupMills=424
+currentMills:10183
+systemclock.uptimeMillis()-wakeupMills=462
+currentMills:10220
+systemclock.uptimeMillis()-wakeupMills=499
+currentMills:10257
+systemclock.uptimeMillis()-wakeupMills=542
+wake up in wait
+wake up
+currentMills:10301
+systemclock.uptimeMillis()-wakeupMills=39
+currentMills:10339
+systemclock.uptimeMillis()-wakeupMills=77
+currentMills:10377
+systemclock.uptimeMillis()-wakeupMills=114
+currentMills:10414
+systemclock.uptimeMillis()-wakeupMills=156
+currentMills:10456
+systemclock.uptimeMillis()-wakeupMills=194
+currentMills:10495
+systemclock.uptimeMillis()-wakeupMills=232
+currentMills:10532
+systemclock.uptimeMillis()-wakeupMills=270
+currentMills:10571
+systemclock.uptimeMillis()-wakeupMills=336
+currentMills:10637
+systemclock.uptimeMillis()-wakeupMills=375
+currentMills:10675
+systemclock.uptimeMillis()-wakeupMills=413
+currentMills:10713
+systemclock.uptimeMillis()-wakeupMills=451
+currentMills:10751
+systemclock.uptimeMillis()-wakeupMills=512
+wake up in wait
+wake up
+currentMills:10816
+systemclock.uptimeMillis()-wakeupMills=47
+currentMills:10860
+systemclock.uptimeMillis()-wakeupMills=85
+currentMills:10898
+systemclock.uptimeMillis()-wakeupMills=131
+currentMills:10944
+systemclock.uptimeMillis()-wakeupMills=163
+currentMills:10976
+systemclock.uptimeMillis()-wakeupMills=204
+currentMills:11017
+systemclock.uptimeMillis()-wakeupMills=250
+currentMills:11064
+systemclock.uptimeMillis()-wakeupMills=290
+currentMills:11103
+systemclock.uptimeMillis()-wakeupMills=328
+currentMills:11142
+systemclock.uptimeMillis()-wakeupMills=365
+currentMills:11178
+systemclock.uptimeMillis()-wakeupMills=398
+currentMills:11211
+systemclock.uptimeMillis()-wakeupMills=446
+currentMills:11259
+systemclock.uptimeMillis()-wakeupMills=483
+currentMills:11297
+systemclock.uptimeMillis()-wakeupMills=514
+wake up in wait
+wake up
+currentMills:11330
+systemclock.uptimeMillis()-wakeupMills=48
+currentMills:11375
+systemclock.uptimeMillis()-wakeupMills=105
+currentMills:11432
+systemclock.uptimeMillis()-wakeupMills=150
+currentMills:11477
+systemclock.uptimeMillis()-wakeupMills=431
+currentMills:11759
+systemclock.uptimeMillis()-wakeupMills=684
+wake up in wait
+wake up
+currentMills:12018
+systemclock.uptimeMillis()-wakeupMills=46
+currentMills:12057
+systemclock.uptimeMillis()-wakeupMills=84
+currentMills:12096
+systemclock.uptimeMillis()-wakeupMills=139
+currentMills:12150
+systemclock.uptimeMillis()-wakeupMills=177
+currentMills:12188
+systemclock.uptimeMillis()-wakeupMills=220
+currentMills:12231
+systemclock.uptimeMillis()-wakeupMills=262
+currentMills:12273
+systemclock.uptimeMillis()-wakeupMills=313
+currentMills:12324
+systemclock.uptimeMillis()-wakeupMills=355
+currentMills:12367
+systemclock.uptimeMillis()-wakeupMills=390
+currentMills:12401
+systemclock.uptimeMillis()-wakeupMills=442
+currentMills:12453
+systemclock.uptimeMillis()-wakeupMills=484
+currentMills:12495
+systemclock.uptimeMillis()-wakeupMills=531
+wake up in wait
+wake up
+currentMills:12543
+systemclock.uptimeMillis()-wakeupMills=45
+currentMills:12587
+systemclock.uptimeMillis()-wakeupMills=83
+currentMills:12625
+systemclock.uptimeMillis()-wakeupMills=123
+currentMills:12665
+systemclock.uptimeMillis()-wakeupMills=169
+currentMills:12711
+systemclock.uptimeMillis()-wakeupMills=225
+currentMills:12767
+systemclock.uptimeMillis()-wakeupMills=270
+currentMills:12812
+systemclock.uptimeMillis()-wakeupMills=310
+currentMills:12852
+systemclock.uptimeMillis()-wakeupMills=358
+currentMills:12900
+systemclock.uptimeMillis()-wakeupMills=396
+currentMills:12938
+systemclock.uptimeMillis()-wakeupMills=434
+currentMills:12976
+systemclock.uptimeMillis()-wakeupMills=473
+currentMills:13015
+systemclock.uptimeMillis()-wakeupMills=512
+wake up in wait
+wake up
+currentMills:13057
+systemclock.uptimeMillis()-wakeupMills=41
+currentMills:13095
+systemclock.uptimeMillis()-wakeupMills=80
+currentMills:13135
+systemclock.uptimeMillis()-wakeupMills=119
+currentMills:13174
+systemclock.uptimeMillis()-wakeupMills=157
+currentMills:13211
+systemclock.uptimeMillis()-wakeupMills=186
+currentMills:13240
+systemclock.uptimeMillis()-wakeupMills=232
+currentMills:13286
+systemclock.uptimeMillis()-wakeupMills=271
+currentMills:13326
+systemclock.uptimeMillis()-wakeupMills=293
+currentMills:13348
+systemclock.uptimeMillis()-wakeupMills=336
+currentMills:13391
+systemclock.uptimeMillis()-wakeupMills=378
+currentMills:13432
+systemclock.uptimeMillis()-wakeupMills=413
+currentMills:13468
+systemclock.uptimeMillis()-wakeupMills=453
+currentMills:13508
+systemclock.uptimeMillis()-wakeupMills=483
+currentMills:13538
+systemclock.uptimeMillis()-wakeupMills=536
+wake up in wait
+wake up
+currentMills:13591
+systemclock.uptimeMillis()-wakeupMills=30
+currentMills:13621
+systemclock.uptimeMillis()-wakeupMills=74
+currentMills:13664
+systemclock.uptimeMillis()-wakeupMills=104
+currentMills:13694
+systemclock.uptimeMillis()-wakeupMills=147
+currentMills:13737
+systemclock.uptimeMillis()-wakeupMills=187
+currentMills:13777
+systemclock.uptimeMillis()-wakeupMills=224
+currentMills:13815
+systemclock.uptimeMillis()-wakeupMills=264
+currentMills:13854
+systemclock.uptimeMillis()-wakeupMills=318
+currentMills:13908
+systemclock.uptimeMillis()-wakeupMills=346
+currentMills:13936
+systemclock.uptimeMillis()-wakeupMills=386
+currentMills:13976
+systemclock.uptimeMillis()-wakeupMills=456
+currentMills:14046
+systemclock.uptimeMillis()-wakeupMills=505
+wake up in wait
+wake up
+currentMills:14104
+systemclock.uptimeMillis()-wakeupMills=47
+currentMills:14142
+systemclock.uptimeMillis()-wakeupMills=91
+currentMills:14187
+systemclock.uptimeMillis()-wakeupMills=138
+currentMills:14234
+systemclock.uptimeMillis()-wakeupMills=176
+currentMills:14271
+systemclock.uptimeMillis()-wakeupMills=207
+currentMills:14302
+systemclock.uptimeMillis()-wakeupMills=249
+currentMills:14345
+systemclock.uptimeMillis()-wakeupMills=292
+currentMills:14387
+systemclock.uptimeMillis()-wakeupMills=329
+currentMills:14424
+systemclock.uptimeMillis()-wakeupMills=367
+currentMills:14462
+systemclock.uptimeMillis()-wakeupMills=411
+currentMills:14507
+systemclock.uptimeMillis()-wakeupMills=442
+currentMills:14537
+systemclock.uptimeMillis()-wakeupMills=498
+currentMills:14594
+systemclock.uptimeMillis()-wakeupMills=529
+wake up in wait
+wake up
+currentMills:14636
+systemclock.uptimeMillis()-wakeupMills=42
+currentMills:14673
+systemclock.uptimeMillis()-wakeupMills=80
+currentMills:14711
+systemclock.uptimeMillis()-wakeupMills=118
+currentMills:14749
+systemclock.uptimeMillis()-wakeupMills=152
+currentMills:14783
+systemclock.uptimeMillis()-wakeupMills=194
+currentMills:14825
+systemclock.uptimeMillis()-wakeupMills=225
+currentMills:14856
+systemclock.uptimeMillis()-wakeupMills=262
+currentMills:14893
+systemclock.uptimeMillis()-wakeupMills=304
+currentMills:14935
+systemclock.uptimeMillis()-wakeupMills=345
+currentMills:14976
+systemclock.uptimeMillis()-wakeupMills=384
+currentMills:15015
+systemclock.uptimeMillis()-wakeupMills=423
+currentMills:15054
+systemclock.uptimeMillis()-wakeupMills=470
+currentMills:15101
+systemclock.uptimeMillis()-wakeupMills=509
+wake up in wait
+wake up
+currentMills:15142
+systemclock.uptimeMillis()-wakeupMills=30
+currentMills:15172
+systemclock.uptimeMillis()-wakeupMills=70
+currentMills:15212
+systemclock.uptimeMillis()-wakeupMills=113
+currentMills:15255
+systemclock.uptimeMillis()-wakeupMills=155
+currentMills:15297
+systemclock.uptimeMillis()-wakeupMills=185
+currentMills:15327
+systemclock.uptimeMillis()-wakeupMills=233
+currentMills:15374
+systemclock.uptimeMillis()-wakeupMills=262
+currentMills:15404
+systemclock.uptimeMillis()-wakeupMills=300
+currentMills:15442
+systemclock.uptimeMillis()-wakeupMills=347
+currentMills:15488
+systemclock.uptimeMillis()-wakeupMills=385
+currentMills:15527
+systemclock.uptimeMillis()-wakeupMills=423
+currentMills:15565
+systemclock.uptimeMillis()-wakeupMills=461
+currentMills:15602
+systemclock.uptimeMillis()-wakeupMills=511
+wake up in wait
+wake up
+currentMills:15653
+systemclock.uptimeMillis()-wakeupMills=55
+currentMills:15707
+systemclock.uptimeMillis()-wakeupMills=107
+currentMills:15760
+systemclock.uptimeMillis()-wakeupMills=146
+currentMills:15799
+systemclock.uptimeMillis()-wakeupMills=186
+currentMills:15838
+systemclock.uptimeMillis()-wakeupMills=224
+currentMills:15876
+systemclock.uptimeMillis()-wakeupMills=261
+currentMills:15914
+systemclock.uptimeMillis()-wakeupMills=313
+currentMills:15965
+systemclock.uptimeMillis()-wakeupMills=351
+currentMills:16003
+systemclock.uptimeMillis()-wakeupMills=402
+currentMills:16055
+systemclock.uptimeMillis()-wakeupMills=441
+currentMills:16094
+systemclock.uptimeMillis()-wakeupMills=483
+currentMills:16135
+systemclock.uptimeMillis()-wakeupMills=519
+wake up in wait
+wake up
+currentMills:16174
+systemclock.uptimeMillis()-wakeupMills=41
+currentMills:16212
+systemclock.uptimeMillis()-wakeupMills=92
+currentMills:16263
+systemclock.uptimeMillis()-wakeupMills=122
+currentMills:16293
+systemclock.uptimeMillis()-wakeupMills=161
+currentMills:16332
+systemclock.uptimeMillis()-wakeupMills=205
+currentMills:16381
+systemclock.uptimeMillis()-wakeupMills=252
+currentMills:16423
+systemclock.uptimeMillis()-wakeupMills=321
+currentMills:16492
+systemclock.uptimeMillis()-wakeupMills=360
+currentMills:16531
+systemclock.uptimeMillis()-wakeupMills=394
+currentMills:16566
+systemclock.uptimeMillis()-wakeupMills=432
+currentMills:16603
+systemclock.uptimeMillis()-wakeupMills=470
+currentMills:16641
+systemclock.uptimeMillis()-wakeupMills=509
+wake up in wait
+wake up
+currentMills:16690
+systemclock.uptimeMillis()-wakeupMills=38
+currentMills:16729
+systemclock.uptimeMillis()-wakeupMills=76
+currentMills:16766
+systemclock.uptimeMillis()-wakeupMills=114
+currentMills:16804
+systemclock.uptimeMillis()-wakeupMills=166
+currentMills:16856
+systemclock.uptimeMillis()-wakeupMills=208
+currentMills:16898
+systemclock.uptimeMillis()-wakeupMills=237
+currentMills:16928
+systemclock.uptimeMillis()-wakeupMills=276
+currentMills:16978
+systemclock.uptimeMillis()-wakeupMills=326
+currentMills:17016
+systemclock.uptimeMillis()-wakeupMills=364
+currentMills:17054
+systemclock.uptimeMillis()-wakeupMills=403
+currentMills:17093
+systemclock.uptimeMillis()-wakeupMills=450
+currentMills:17140
+systemclock.uptimeMillis()-wakeupMills=481
+currentMills:17172
+systemclock.uptimeMillis()-wakeupMills=575
+wake up in wait
+wake up
+currentMills:17266
+systemclock.uptimeMillis()-wakeupMills=30
+currentMills:17307
+systemclock.uptimeMillis()-wakeupMills=96
+currentMills:17361
+systemclock.uptimeMillis()-wakeupMills=138
+currentMills:17403
+systemclock.uptimeMillis()-wakeupMills=175
+currentMills:17440
+systemclock.uptimeMillis()-wakeupMills=231
+currentMills:17497
+systemclock.uptimeMillis()-wakeupMills=274
+currentMills:17539
+systemclock.uptimeMillis()-wakeupMills=313
+currentMills:17578
+systemclock.uptimeMillis()-wakeupMills=352
+currentMills:17627
+systemclock.uptimeMillis()-wakeupMills=401
+currentMills:17666
+systemclock.uptimeMillis()-wakeupMills=438
+currentMills:17704
+systemclock.uptimeMillis()-wakeupMills=476
+currentMills:17741
+systemclock.uptimeMillis()-wakeupMills=514
+wake up in wait
+wake up
+currentMills:17780
+systemclock.uptimeMillis()-wakeupMills=42
+currentMills:17821
+systemclock.uptimeMillis()-wakeupMills=79
+currentMills:17858
+systemclock.uptimeMillis()-wakeupMills=120
+currentMills:17909
+systemclock.uptimeMillis()-wakeupMills=167
+currentMills:17947
+systemclock.uptimeMillis()-wakeupMills=206
+currentMills:17985
+systemclock.uptimeMillis()-wakeupMills=236
+currentMills:18015
+systemclock.uptimeMillis()-wakeupMills=287
+currentMills:18066
+systemclock.uptimeMillis()-wakeupMills=325
+currentMills:18104
+systemclock.uptimeMillis()-wakeupMills=362
+currentMills:18141
+systemclock.uptimeMillis()-wakeupMills=393
+currentMills:18182
+systemclock.uptimeMillis()-wakeupMills=441
+currentMills:18220
+systemclock.uptimeMillis()-wakeupMills=480
+currentMills:18259
+systemclock.uptimeMillis()-wakeupMills=518
+wake up in wait
+wake up
+currentMills:18299
+systemclock.uptimeMillis()-wakeupMills=44
+currentMills:18342
+systemclock.uptimeMillis()-wakeupMills=69
+currentMills:18367
+systemclock.uptimeMillis()-wakeupMills=108
+currentMills:18406
+systemclock.uptimeMillis()-wakeupMills=148
+currentMills:18445
+systemclock.uptimeMillis()-wakeupMills=192
+currentMills:18489
+systemclock.uptimeMillis()-wakeupMills=234
+currentMills:18531
+systemclock.uptimeMillis()-wakeupMills=272
+currentMills:18570
+systemclock.uptimeMillis()-wakeupMills=320
+currentMills:18617
+systemclock.uptimeMillis()-wakeupMills=366
+currentMills:18664
+systemclock.uptimeMillis()-wakeupMills=389
+currentMills:18686
+systemclock.uptimeMillis()-wakeupMills=432
+currentMills:18737
+systemclock.uptimeMillis()-wakeupMills=477
+currentMills:18774
+systemclock.uptimeMillis()-wakeupMills=514
+wake up in wait
+wake up
+currentMills:18812
+systemclock.uptimeMillis()-wakeupMills=39
+currentMills:18851
+systemclock.uptimeMillis()-wakeupMills=90
+currentMills:18902
+systemclock.uptimeMillis()-wakeupMills=128
+currentMills:18941
+systemclock.uptimeMillis()-wakeupMills=178
+currentMills:18990
+systemclock.uptimeMillis()-wakeupMills=220
+currentMills:19041
+systemclock.uptimeMillis()-wakeupMills=263
+currentMills:19075
+systemclock.uptimeMillis()-wakeupMills=305
+currentMills:19117
+systemclock.uptimeMillis()-wakeupMills=344
+currentMills:19156
+systemclock.uptimeMillis()-wakeupMills=388
+currentMills:19200
+systemclock.uptimeMillis()-wakeupMills=430
+currentMills:19242
+systemclock.uptimeMillis()-wakeupMills=466
+currentMills:19278
+systemclock.uptimeMillis()-wakeupMills=506
+wake up in wait
+wake up
+currentMills:19331
+systemclock.uptimeMillis()-wakeupMills=45
+currentMills:19369
+systemclock.uptimeMillis()-wakeupMills=83
+currentMills:19407
+systemclock.uptimeMillis()-wakeupMills=106
+currentMills:19430
+systemclock.uptimeMillis()-wakeupMills=150
+currentMills:19478
+systemclock.uptimeMillis()-wakeupMills=193
+currentMills:19517
+systemclock.uptimeMillis()-wakeupMills=230
+currentMills:19555
+systemclock.uptimeMillis()-wakeupMills=260
+currentMills:19585
+systemclock.uptimeMillis()-wakeupMills=298
+currentMills:19623
+systemclock.uptimeMillis()-wakeupMills=321
+currentMills:19645
+systemclock.uptimeMillis()-wakeupMills=343
+currentMills:19667
+systemclock.uptimeMillis()-wakeupMills=366
+currentMills:19697
+systemclock.uptimeMillis()-wakeupMills=397
+currentMills:19721
+systemclock.uptimeMillis()-wakeupMills=420
+currentMills:19745
+systemclock.uptimeMillis()-wakeupMills=473
+currentMills:19797
+systemclock.uptimeMillis()-wakeupMills=503
+wake up in wait
+wake up
+currentMills:19828
+systemclock.uptimeMillis()-wakeupMills=55
+currentMills:19883
+systemclock.uptimeMillis()-wakeupMills=85
+currentMills:19912
+systemclock.uptimeMillis()-wakeupMills=125
+currentMills:19952
+systemclock.uptimeMillis()-wakeupMills=151
+currentMills:19979
+systemclock.uptimeMillis()-wakeupMills=192
+currentMills:20019
+systemclock.uptimeMillis()-wakeupMills=354
+currentMills:20181
+systemclock.uptimeMillis()-wakeupMills=401
+currentMills:20228
+systemclock.uptimeMillis()-wakeupMills=439
+currentMills:20266
+systemclock.uptimeMillis()-wakeupMills=466
+currentMills:20293
+systemclock.uptimeMillis()-wakeupMills=516
+wake up in wait
+wake up
+currentMills:20344
+systemclock.uptimeMillis()-wakeupMills=39
+currentMills:20382
+systemclock.uptimeMillis()-wakeupMills=79
+currentMills:20422
+systemclock.uptimeMillis()-wakeupMills=111
+currentMills:20454
+systemclock.uptimeMillis()-wakeupMills=159
+currentMills:20503
+systemclock.uptimeMillis()-wakeupMills=202
+currentMills:20545
+systemclock.uptimeMillis()-wakeupMills=233
+currentMills:20576
+systemclock.uptimeMillis()-wakeupMills=274
+currentMills:20618
+systemclock.uptimeMillis()-wakeupMills=308
+currentMills:20651
+systemclock.uptimeMillis()-wakeupMills=360
+currentMills:20703
+systemclock.uptimeMillis()-wakeupMills=383
+currentMills:20726
+systemclock.uptimeMillis()-wakeupMills=431
+currentMills:20774
+systemclock.uptimeMillis()-wakeupMills=473
+currentMills:20817
+systemclock.uptimeMillis()-wakeupMills=512
+wake up in wait
+wake up
+currentMills:20862
+systemclock.uptimeMillis()-wakeupMills=45
+currentMills:20900
+systemclock.uptimeMillis()-wakeupMills=83
+currentMills:20938
+systemclock.uptimeMillis()-wakeupMills=125
+currentMills:20980
+systemclock.uptimeMillis()-wakeupMills=168
+currentMills:21024
+systemclock.uptimeMillis()-wakeupMills=208
+currentMills:21064
+systemclock.uptimeMillis()-wakeupMills=255
+currentMills:21110
+systemclock.uptimeMillis()-wakeupMills=298
+currentMills:21154
+systemclock.uptimeMillis()-wakeupMills=340
+currentMills:21195
+systemclock.uptimeMillis()-wakeupMills=370
+currentMills:21225
+systemclock.uptimeMillis()-wakeupMills=408
+currentMills:21264
+systemclock.uptimeMillis()-wakeupMills=452
+currentMills:21307
+systemclock.uptimeMillis()-wakeupMills=499
+currentMills:21354
+systemclock.uptimeMillis()-wakeupMills=537
+wake up in wait
+wake up
+currentMills:21401
+systemclock.uptimeMillis()-wakeupMills=59
+currentMills:21451
+systemclock.uptimeMillis()-wakeupMills=102
+currentMills:21494
+systemclock.uptimeMillis()-wakeupMills=139
+currentMills:21531
+systemclock.uptimeMillis()-wakeupMills=170
+currentMills:21573
+systemclock.uptimeMillis()-wakeupMills=225
+currentMills:21617
+systemclock.uptimeMillis()-wakeupMills=255
+currentMills:21647
+systemclock.uptimeMillis()-wakeupMills=293
+currentMills:21685
+systemclock.uptimeMillis()-wakeupMills=345
+currentMills:21737
+systemclock.uptimeMillis()-wakeupMills=385
+currentMills:21777
+systemclock.uptimeMillis()-wakeupMills=420
+currentMills:21812
+systemclock.uptimeMillis()-wakeupMills=456
+currentMills:21854
+systemclock.uptimeMillis()-wakeupMills=498
+currentMills:21890
+systemclock.uptimeMillis()-wakeupMills=538
+wake up in wait
+wake up
+currentMills:21931
+systemclock.uptimeMillis()-wakeupMills=41
+currentMills:21971
+systemclock.uptimeMillis()-wakeupMills=99
+currentMills:22029
+systemclock.uptimeMillis()-wakeupMills=137
+currentMills:22068
+systemclock.uptimeMillis()-wakeupMills=171
+currentMills:22101
+systemclock.uptimeMillis()-wakeupMills=212
+currentMills:22148
+systemclock.uptimeMillis()-wakeupMills=241
+currentMills:22171
+systemclock.uptimeMillis()-wakeupMills=263
+currentMills:22193
+systemclock.uptimeMillis()-wakeupMills=284
+currentMills:22214
+systemclock.uptimeMillis()-wakeupMills=318
+currentMills:22248
+systemclock.uptimeMillis()-wakeupMills=353
+currentMills:22284
+systemclock.uptimeMillis()-wakeupMills=392
+currentMills:22322
+systemclock.uptimeMillis()-wakeupMills=430
+currentMills:22370
+systemclock.uptimeMillis()-wakeupMills=479
+currentMills:22409
+systemclock.uptimeMillis()-wakeupMills=523
+wake up in wait
+wake up
+currentMills:22456
+systemclock.uptimeMillis()-wakeupMills=37
+currentMills:22491
+systemclock.uptimeMillis()-wakeupMills=83
+currentMills:22538
+systemclock.uptimeMillis()-wakeupMills=124
+currentMills:22578
+systemclock.uptimeMillis()-wakeupMills=167
+currentMills:22622
+systemclock.uptimeMillis()-wakeupMills=219
+currentMills:22681
+systemclock.uptimeMillis()-wakeupMills=269
+currentMills:22723
+systemclock.uptimeMillis()-wakeupMills=316
+currentMills:22770
+systemclock.uptimeMillis()-wakeupMills=361
+currentMills:22816
+systemclock.uptimeMillis()-wakeupMills=413
+currentMills:22867
+systemclock.uptimeMillis()-wakeupMills=469
+currentMills:22923
+systemclock.uptimeMillis()-wakeupMills=522
+wake up in wait
+wake up
+currentMills:22979
+systemclock.uptimeMillis()-wakeupMills=47
+currentMills:23023
+systemclock.uptimeMillis()-wakeupMills=100
+currentMills:23077
+systemclock.uptimeMillis()-wakeupMills=149
+currentMills:23127
+systemclock.uptimeMillis()-wakeupMills=204
+currentMills:23181
+systemclock.uptimeMillis()-wakeupMills=254
+currentMills:23231
+systemclock.uptimeMillis()-wakeupMills=312
+currentMills:23288
+systemclock.uptimeMillis()-wakeupMills=351
+currentMills:23327
+systemclock.uptimeMillis()-wakeupMills=404
+currentMills:23380
+systemclock.uptimeMillis()-wakeupMills=462
+currentMills:23439
+systemclock.uptimeMillis()-wakeupMills=531
+wake up in wait
+wake up
+currentMills:23509
+systemclock.uptimeMillis()-wakeupMills=51
+currentMills:23558
+systemclock.uptimeMillis()-wakeupMills=102
+currentMills:23609
+systemclock.uptimeMillis()-wakeupMills=158
+currentMills:23666
+systemclock.uptimeMillis()-wakeupMills=217
+currentMills:23725
+systemclock.uptimeMillis()-wakeupMills=293
+currentMills:23802
+systemclock.uptimeMillis()-wakeupMills=365
+currentMills:23877
+systemclock.uptimeMillis()-wakeupMills=4169
+wake up in wait
+wake up
+currentMills:28190
+systemclock.uptimeMillis()-wakeupMills=1163
+wake up in wait
+wake up
+currentMills:28840
+systemclock.uptimeMillis()-wakeupMills=31
+currentMills:28871
+systemclock.uptimeMillis()-wakeupMills=75
+currentMills:28915
+systemclock.uptimeMillis()-wakeupMills=106
+currentMills:28946
+systemclock.uptimeMillis()-wakeupMills=129
+currentMills:28969
+systemclock.uptimeMillis()-wakeupMills=158
+currentMills:28998
+systemclock.uptimeMillis()-wakeupMills=187
+currentMills:29027
+systemclock.uptimeMillis()-wakeupMills=213
+currentMills:29053
+systemclock.uptimeMillis()-wakeupMills=237
+currentMills:29084
+systemclock.uptimeMillis()-wakeupMills=271
+currentMills:29111
+systemclock.uptimeMillis()-wakeupMills=295
+currentMills:29135
+systemclock.uptimeMillis()-wakeupMills=321
+currentMills:29161
+systemclock.uptimeMillis()-wakeupMills=356
+currentMills:29196
+systemclock.uptimeMillis()-wakeupMills=425
+currentMills:29266
+systemclock.uptimeMillis()-wakeupMills=465
+currentMills:29306
+systemclock.uptimeMillis()-wakeupMills=708
+wake up in wait
+wake up
+currentMills:29549
+systemclock.uptimeMillis()-wakeupMills=1069
+wake up in wait
+wake up
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.pekall.test.mdmui.PloyAndConfig
+INSTRUMENTATION_STATUS: stream=
+Failure in checkAndroidPWDPloyReceived:
+junit.framework.AssertionFailedError: unable receive android password ploy
+	at com.pekall.test.mdmui.util.MyAssert.assert_True(MyAssert.java:23)
+	at com.pekall.test.mdmui.galaxyPhone.GalaxyNotificationManager.checkAndroidPWDPloyReceived(GalaxyNotificationManager.java:44)
+	at com.pekall.test.mdmui.PloyAndConfig.checkAndroidPWDPloyReceived(PloyAndConfig.java:25)
+	at java.lang.reflect.Method.invokeNative(Native Method)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:235)
+	at dalvik.system.NativeStart.main(Native Method)
+
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stack=junit.framework.AssertionFailedError: unable receive android password ploy
+	at com.pekall.test.mdmui.util.MyAssert.assert_True(MyAssert.java:23)
+	at com.pekall.test.mdmui.galaxyPhone.GalaxyNotificationManager.checkAndroidPWDPloyReceived(GalaxyNotificationManager.java:44)
+	at com.pekall.test.mdmui.PloyAndConfig.checkAndroidPWDPloyReceived(PloyAndConfig.java:25)
+	at java.lang.reflect.Method.invokeNative(Native Method)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:235)
+	at dalvik.system.NativeStart.main(Native Method)
+
+INSTRUMENTATION_STATUS: test=checkAndroidPWDPloyReceived
+INSTRUMENTATION_STATUS_CODE: -2
+INSTRUMENTATION_STATUS: stream=
+Test results for WatcherResultPrinter=.F
+Time: 33.364
+
+FAILURES!!!
+Tests run: 1,  Failures: 1,  Errors: 0
+
+
+INSTRUMENTATION_STATUS_CODE: -1

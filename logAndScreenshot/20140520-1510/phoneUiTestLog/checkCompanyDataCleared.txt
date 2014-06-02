@@ -1,0 +1,109 @@
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.pekall.test.mdmui.Device
+INSTRUMENTATION_STATUS: stream=
+com.pekall.test.mdmui.Device:
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: test=checkCompanyDataCleared
+INSTRUMENTATION_STATUS_CODE: 1
+swipe to unlock
+in pekall
+my Wait for exists
+currentMills:0
+currentMills:31
+currentMills:62
+currentMills:111
+currentMills:133
+currentMills:155
+currentMills:178
+currentMills:200
+currentMills:220
+currentMills:242
+currentMills:262
+currentMills:283
+currentMills:304
+currentMills:325
+currentMills:345
+currentMills:366
+currentMills:388
+currentMills:410
+currentMills:432
+currentMills:454
+currentMills:481
+currentMills:505
+currentMills:527
+currentMills:561
+currentMills:582
+currentMills:602
+currentMills:622
+currentMills:643
+currentMills:663
+currentMills:685
+currentMills:707
+currentMills:726
+currentMills:747
+currentMills:768
+currentMills:791
+currentMills:813
+currentMills:833
+currentMills:855
+currentMills:876
+currentMills:897
+currentMills:919
+currentMills:941
+currentMills:964
+currentMills:986
+currentMills:1007
+currentMills:1029
+currentMills:1051
+currentMills:1072
+currentMills:1207
+currentMills:1250
+currentMills:1327
+currentMills:1393
+currentMills:1564
+currentMills:17981
+currentMills:38735
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.pekall.test.mdmui.Device
+INSTRUMENTATION_STATUS: stream=
+Failure in checkCompanyDataCleared:
+junit.framework.AssertionFailedError: unable clear company data
+	at com.pekall.test.mdmui.util.MyAssert.assert_True(MyAssert.java:21)
+	at com.pekall.test.mdmui.galaxyPhone.GalaxyPekallManager.checkCompanyDataCleared(GalaxyPekallManager.java:175)
+	at com.pekall.test.mdmui.Device.checkCompanyDataCleared(Device.java:25)
+	at java.lang.reflect.Method.invokeNative(Native Method)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:235)
+	at dalvik.system.NativeStart.main(Native Method)
+
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stack=junit.framework.AssertionFailedError: unable clear company data
+	at com.pekall.test.mdmui.util.MyAssert.assert_True(MyAssert.java:21)
+	at com.pekall.test.mdmui.galaxyPhone.GalaxyPekallManager.checkCompanyDataCleared(GalaxyPekallManager.java:175)
+	at com.pekall.test.mdmui.Device.checkCompanyDataCleared(Device.java:25)
+	at java.lang.reflect.Method.invokeNative(Native Method)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:235)
+	at dalvik.system.NativeStart.main(Native Method)
+
+INSTRUMENTATION_STATUS: test=checkCompanyDataCleared
+INSTRUMENTATION_STATUS_CODE: -2
+INSTRUMENTATION_STATUS: stream=
+Test results for WatcherResultPrinter=.F
+Time: 49.944
+
+FAILURES!!!
+Tests run: 1,  Failures: 1,  Errors: 0
+
+
+INSTRUMENTATION_STATUS_CODE: -1

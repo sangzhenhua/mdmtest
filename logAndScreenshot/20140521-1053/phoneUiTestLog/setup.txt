@@ -1,0 +1,197 @@
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.pekall.test.mdmui.SetUp
+INSTRUMENTATION_STATUS: stream=
+com.pekall.test.mdmui.SetUp:
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: test=setup
+INSTRUMENTATION_STATUS_CODE: 1
+swipe to unlock
+not in settings
+go Apps
+not in apps
+go home
+in pekall
+in pekall home or list
+Personal Mode
+Rect(190, 608 - 350, 808)
+Apps
+Rect(0, 50 - 142, 154)
+maxSwipes:2
+continue to swipe
+continue to swipe
+maxSwipes:3
+continue to swipe
+continue to swipe
+continue to swipe
+maxSwipes:3
+HttpClienPekall
+Rect(172, 324 - 418, 372)
+not in settings
+go Apps
+already in apps
+Apps
+Rect(0, 50 - 142, 154)
+maxSwipes:2
+maxSwipes:3
+maxSwipes:3
+continue to swipe
+continue to swipe
+continue to swipe
+go Pekall
+go Apps
+not in apps
+go home
+not in pekall
+not in home
+source: Apps
+\u41\u70\u70\u73
+Apps\u41\u70\u70\u73
+not in home
+source: Apps
+\u41\u70\u70\u73
+Apps\u41\u70\u70\u73
+not in home
+source: Apps
+\u41\u70\u70\u73
+Apps\u41\u70\u70\u73
+Apps
+Rect(0, 50 - 142, 154)
+maxSwipes:2
+swipe...
+swipte i:0
+width:720
+height:1184
+com.android.uiautomator.core.UiDevice@420a71d0
+swipte i:1
+width:720
+height:1184
+com.android.uiautomator.core.UiDevice@420a71d0
+swipte i:2
+width:720
+height:1184
+com.android.uiautomator.core.UiDevice@420a71d0
+my Wait for exists
+currentMills:0
+currentMills:15
+currentMills:23
+currentMills:34
+currentMills:45
+currentMills:56
+currentMills:64
+currentMills:71
+currentMills:80
+currentMills:86
+currentMills:95
+currentMills:101
+currentMills:106
+currentMills:114
+currentMills:120
+currentMills:127
+currentMills:133
+currentMills:139
+currentMills:147
+currentMills:152
+currentMills:158
+currentMills:169
+currentMills:176
+currentMills:184
+currentMills:192
+currentMills:200
+currentMills:209
+currentMills:218
+currentMills:227
+currentMills:233
+currentMills:240
+currentMills:248
+currentMills:253
+currentMills:259
+currentMills:266
+currentMills:271
+currentMills:277
+currentMills:285
+currentMills:291
+currentMills:298
+currentMills:304
+currentMills:310
+currentMills:318
+currentMills:324
+currentMills:332
+currentMills:338
+currentMills:345
+currentMills:353
+currentMills:361
+currentMills:370
+currentMills:377
+currentMills:387
+currentMills:402
+currentMills:408
+currentMills:417
+currentMills:422
+currentMills:441
+currentMills:463
+currentMills:476
+currentMills:485
+currentMills:491
+currentMills:498
+currentMills:504
+currentMills:509
+currentMills:518
+currentMills:524
+currentMills:531
+currentMills:537
+currentMills:543
+currentMills:550
+currentMills:563
+currentMills:569
+currentMills:575
+currentMills:582
+currentMills:599
+currentMills:653
+currentMills:675
+currentMills:685
+currentMills:702
+currentMills:719
+currentMills:736
+currentMills:753
+currentMills:770
+currentMills:1262
+currentMills:1279
+currentMills:1296
+currentMills:1313
+currentMills:1332
+currentMills:1350
+currentMills:1363
+currentMills:1380
+currentMills:1396
+currentMills:1413
+currentMills:1431
+currentMills:1448
+currentMills:1465
+currentMills:1482
+currentMills:1505
+currentMills:1518
+currentMills:1532
+currentMills:1555
+currentMills:1693
+currentMills:2630
+currentMills:3383
+currentMills:4149
+currentMills:4903
+exists!!
+in pekall home or list
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.pekall.test.mdmui.SetUp
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: test=setup
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: stream=
+Test results for WatcherResultPrinter=.
+Time: 86.508
+
+OK (1 test)
+
+
+INSTRUMENTATION_STATUS_CODE: -1

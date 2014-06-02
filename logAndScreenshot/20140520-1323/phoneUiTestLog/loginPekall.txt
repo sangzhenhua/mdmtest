@@ -1,0 +1,68 @@
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.pekall.test.mdmui.SetUp
+INSTRUMENTATION_STATUS: stream=
+com.pekall.test.mdmui.SetUp:
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: test=loginPekall
+INSTRUMENTATION_STATUS_CODE: 1
+swipe to unlock
+not in pekall home or list
+login after clear company data
+my Wait for exists
+wake up
+currentMills:0
+systemclock.uptimeMillis()-wakeupMills=1088
+currentMills:1088
+systemclock.uptimeMillis()-wakeupMills=1101
+currentMills:1101
+systemclock.uptimeMillis()-wakeupMills=1119
+currentMills:1119
+systemclock.uptimeMillis()-wakeupMills=1136
+currentMills:1136
+systemclock.uptimeMillis()-wakeupMills=1153
+currentMills:1153
+systemclock.uptimeMillis()-wakeupMills=1170
+currentMills:1170
+systemclock.uptimeMillis()-wakeupMills=1201
+currentMills:1201
+systemclock.uptimeMillis()-wakeupMills=1692
+currentMills:1692
+systemclock.uptimeMillis()-wakeupMills=1704
+currentMills:1705
+systemclock.uptimeMillis()-wakeupMills=1730
+currentMills:1730
+systemclock.uptimeMillis()-wakeupMills=1747
+currentMills:1747
+systemclock.uptimeMillis()-wakeupMills=1757
+currentMills:1757
+systemclock.uptimeMillis()-wakeupMills=1771
+currentMills:1772
+systemclock.uptimeMillis()-wakeupMills=1779
+currentMills:1780
+systemclock.uptimeMillis()-wakeupMills=1786
+currentMills:1786
+systemclock.uptimeMillis()-wakeupMills=1791
+currentMills:1792
+systemclock.uptimeMillis()-wakeupMills=1799
+currentMills:1800
+systemclock.uptimeMillis()-wakeupMills=2585
+currentMills:2585
+systemclock.uptimeMillis()-wakeupMills=3339
+currentMills:3339
+exists!!
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.pekall.test.mdmui.SetUp
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: test=loginPekall
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: stream=
+Test results for WatcherResultPrinter=.
+Time: 14.668
+
+OK (1 test)
+
+
+INSTRUMENTATION_STATUS_CODE: -1

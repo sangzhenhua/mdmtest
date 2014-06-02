@@ -1,0 +1,343 @@
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.pekall.test.mdmui.PloyAndConfig
+INSTRUMENTATION_STATUS: stream=
+com.pekall.test.mdmui.PloyAndConfig:
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: test=checkAndroidPWDPloyReceived
+INSTRUMENTATION_STATUS_CODE: 1
+swipe to unlock
+my notification Wait for exists
+currentMills:0
+currentMills:20
+currentMills:42
+currentMills:65
+currentMills:88
+currentMills:114
+currentMills:135
+currentMills:163
+currentMills:221
+currentMills:258
+currentMills:281
+currentMills:1529
+currentMills:2070
+currentMills:2096
+currentMills:2123
+currentMills:2176
+currentMills:2206
+currentMills:2234
+currentMills:2259
+currentMills:2299
+currentMills:2340
+currentMills:2381
+currentMills:2412
+currentMills:2438
+currentMills:2467
+currentMills:2492
+currentMills:2525
+currentMills:2552
+currentMills:2595
+currentMills:3827
+currentMills:4250
+currentMills:4290
+currentMills:4380
+currentMills:4426
+currentMills:4486
+currentMills:4520
+currentMills:4545
+currentMills:4571
+currentMills:4599
+currentMills:4636
+currentMills:4684
+currentMills:4730
+currentMills:4769
+currentMills:5204
+currentMills:5448
+currentMills:8761
+currentMills:9275
+currentMills:10704
+currentMills:10768
+currentMills:10816
+currentMills:10863
+currentMills:10910
+currentMills:10954
+currentMills:11056
+currentMills:11169
+currentMills:11437
+currentMills:11997
+currentMills:12327
+currentMills:12368
+currentMills:12422
+currentMills:12460
+currentMills:12508
+currentMills:12655
+currentMills:12696
+currentMills:12743
+currentMills:12796
+currentMills:12858
+currentMills:12901
+currentMills:12940
+currentMills:12987
+currentMills:13034
+currentMills:13078
+currentMills:13130
+currentMills:13172
+currentMills:13214
+currentMills:13343
+currentMills:13375
+currentMills:13485
+currentMills:13575
+currentMills:13622
+currentMills:13662
+currentMills:13712
+currentMills:13765
+currentMills:13821
+currentMills:13867
+currentMills:13921
+currentMills:13961
+currentMills:14000
+currentMills:14041
+currentMills:14086
+currentMills:14126
+currentMills:14168
+currentMills:14223
+currentMills:14269
+currentMills:14315
+currentMills:14374
+currentMills:14876
+currentMills:14916
+currentMills:14957
+currentMills:14999
+currentMills:15064
+currentMills:15095
+currentMills:15133
+currentMills:15157
+currentMills:15188
+currentMills:15250
+currentMills:15290
+currentMills:15329
+currentMills:15375
+currentMills:15414
+currentMills:15454
+currentMills:15495
+currentMills:15547
+currentMills:15596
+currentMills:15659
+currentMills:15705
+currentMills:15745
+currentMills:15791
+currentMills:15831
+currentMills:15863
+currentMills:15916
+currentMills:15956
+currentMills:16009
+currentMills:16051
+currentMills:16096
+currentMills:16140
+currentMills:16181
+currentMills:16221
+currentMills:16270
+currentMills:16324
+currentMills:16368
+currentMills:16423
+currentMills:16484
+currentMills:16526
+currentMills:16573
+currentMills:16645
+currentMills:16699
+currentMills:16761
+currentMills:16806
+currentMills:16856
+currentMills:16899
+currentMills:16943
+currentMills:16996
+currentMills:17039
+currentMills:17081
+currentMills:17117
+currentMills:17171
+currentMills:17211
+currentMills:17251
+currentMills:17310
+currentMills:17375
+currentMills:17466
+currentMills:17512
+currentMills:17558
+currentMills:17605
+currentMills:17651
+currentMills:17703
+currentMills:17745
+currentMills:17787
+currentMills:17843
+currentMills:17872
+currentMills:17922
+currentMills:17980
+currentMills:18013
+currentMills:18060
+currentMills:18106
+currentMills:18154
+currentMills:18195
+currentMills:18236
+currentMills:18273
+currentMills:18312
+currentMills:18361
+currentMills:18391
+currentMills:18444
+currentMills:18487
+currentMills:18522
+currentMills:18585
+currentMills:18626
+currentMills:18676
+currentMills:18723
+currentMills:18769
+currentMills:18815
+currentMills:18862
+currentMills:18920
+currentMills:18953
+currentMills:18988
+currentMills:19030
+currentMills:19055
+currentMills:19086
+currentMills:19141
+currentMills:19192
+currentMills:19236
+currentMills:19452
+currentMills:19782
+currentMills:19829
+currentMills:19869
+currentMills:19908
+currentMills:19963
+currentMills:20001
+currentMills:20049
+currentMills:20097
+currentMills:20137
+currentMills:20184
+currentMills:20229
+currentMills:20273
+currentMills:20313
+currentMills:20354
+currentMills:20405
+currentMills:20454
+currentMills:20501
+currentMills:20542
+currentMills:20602
+currentMills:20643
+currentMills:20693
+currentMills:20749
+currentMills:20789
+currentMills:20830
+currentMills:20875
+currentMills:20917
+currentMills:20956
+currentMills:20995
+currentMills:21050
+currentMills:21085
+currentMills:21156
+currentMills:21208
+currentMills:21246
+currentMills:21297
+currentMills:21355
+currentMills:21394
+currentMills:21448
+currentMills:21507
+currentMills:21563
+currentMills:21604
+currentMills:21651
+currentMills:21703
+currentMills:21740
+currentMills:21783
+currentMills:21823
+currentMills:21879
+currentMills:21919
+currentMills:21961
+currentMills:22023
+currentMills:22062
+currentMills:22105
+currentMills:22154
+currentMills:22204
+currentMills:22482
+currentMills:22805
+currentMills:22844
+currentMills:22890
+currentMills:22931
+currentMills:22979
+currentMills:23035
+currentMills:23076
+currentMills:23141
+currentMills:23185
+currentMills:23242
+currentMills:23284
+currentMills:23330
+currentMills:23382
+currentMills:23422
+currentMills:23453
+currentMills:23501
+currentMills:23550
+currentMills:23596
+currentMills:23642
+currentMills:23695
+currentMills:23737
+currentMills:23768
+currentMills:23804
+currentMills:23836
+currentMills:23883
+currentMills:23924
+currentMills:23977
+currentMills:28089
+currentMills:28557
+currentMills:28593
+currentMills:28670
+currentMills:28713
+currentMills:28765
+currentMills:28800
+currentMills:28846
+currentMills:28930
+currentMills:28980
+currentMills:29029
+currentMills:29058
+currentMills:29157
+currentMills:29237
+currentMills:29376
+currentMills:29840
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.pekall.test.mdmui.PloyAndConfig
+INSTRUMENTATION_STATUS: stream=
+Failure in checkAndroidPWDPloyReceived:
+junit.framework.AssertionFailedError: unable receive android password ploy
+	at com.pekall.test.mdmui.util.MyAssert.assert_True(MyAssert.java:29)
+	at com.pekall.test.mdmui.galaxyPhone.GalaxyNotificationManager.checkAndroidPWDPloyReceived(GalaxyNotificationManager.java:45)
+	at com.pekall.test.mdmui.PloyAndConfig.checkAndroidPWDPloyReceived(PloyAndConfig.java:26)
+	at java.lang.reflect.Method.invokeNative(Native Method)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:235)
+	at dalvik.system.NativeStart.main(Native Method)
+
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: stack=junit.framework.AssertionFailedError: unable receive android password ploy
+	at com.pekall.test.mdmui.util.MyAssert.assert_True(MyAssert.java:29)
+	at com.pekall.test.mdmui.galaxyPhone.GalaxyNotificationManager.checkAndroidPWDPloyReceived(GalaxyNotificationManager.java:45)
+	at com.pekall.test.mdmui.PloyAndConfig.checkAndroidPWDPloyReceived(PloyAndConfig.java:26)
+	at java.lang.reflect.Method.invokeNative(Native Method)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:235)
+	at dalvik.system.NativeStart.main(Native Method)
+
+INSTRUMENTATION_STATUS: test=checkAndroidPWDPloyReceived
+INSTRUMENTATION_STATUS_CODE: -2
+INSTRUMENTATION_STATUS: stream=
+Test results for WatcherResultPrinter=.F
+Time: 32.92
+
+FAILURES!!!
+Tests run: 1,  Failures: 1,  Errors: 0
+
+
+INSTRUMENTATION_STATUS_CODE: -1

@@ -1,0 +1,49 @@
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.pekall.test.mdmui.SetUp
+INSTRUMENTATION_STATUS: stream=
+com.pekall.test.mdmui.SetUp:
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: test=loginPekall
+INSTRUMENTATION_STATUS_CODE: 1
+swipe to unlock
+in pekall but not in pekall home or list
+login after clear company data
+my Wait for exists
+currentMills:0
+currentMills:1086
+currentMills:1148
+currentMills:1163
+currentMills:1176
+currentMills:1195
+currentMills:1210
+currentMills:1227
+currentMills:1246
+currentMills:1752
+currentMills:1769
+currentMills:1825
+currentMills:1866
+currentMills:1888
+currentMills:1908
+currentMills:1925
+currentMills:1934
+currentMills:1949
+currentMills:2966
+currentMills:3719
+currentMills:4472
+exists!!
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.pekall.test.mdmui.SetUp
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: test=loginPekall
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: stream=
+Test results for WatcherResultPrinter=.
+Time: 15.507
+
+OK (1 test)
+
+
+INSTRUMENTATION_STATUS_CODE: -1

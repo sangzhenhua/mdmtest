@@ -1,0 +1,134 @@
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.pekall.test.mdmui.SetUp
+INSTRUMENTATION_STATUS: stream=
+com.pekall.test.mdmui.SetUp:
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: test=loginPekall
+INSTRUMENTATION_STATUS_CODE: 1
+swipe to unlock
+not in pekall home or list
+login after clear company data
+my Wait for exists
+device:com.android.uiautomator.core.UiDevice@41a6a298
+currentMills:0
+systemclock.uptimeMillis()-wakeupMills=1051
+currentMills:1051
+systemclock.uptimeMillis()-wakeupMills=1068
+currentMills:1068
+systemclock.uptimeMillis()-wakeupMills=1072
+currentMills:1072
+systemclock.uptimeMillis()-wakeupMills=1080
+currentMills:1080
+systemclock.uptimeMillis()-wakeupMills=1086
+currentMills:1086
+systemclock.uptimeMillis()-wakeupMills=1091
+currentMills:1091
+systemclock.uptimeMillis()-wakeupMills=1100
+currentMills:1100
+systemclock.uptimeMillis()-wakeupMills=1105
+currentMills:1105
+systemclock.uptimeMillis()-wakeupMills=1110
+currentMills:1110
+systemclock.uptimeMillis()-wakeupMills=1119
+currentMills:1119
+systemclock.uptimeMillis()-wakeupMills=1623
+currentMills:1623
+systemclock.uptimeMillis()-wakeupMills=1645
+currentMills:1645
+systemclock.uptimeMillis()-wakeupMills=1657
+currentMills:1657
+systemclock.uptimeMillis()-wakeupMills=1665
+currentMills:1665
+systemclock.uptimeMillis()-wakeupMills=1673
+currentMills:1673
+systemclock.uptimeMillis()-wakeupMills=1681
+currentMills:1681
+systemclock.uptimeMillis()-wakeupMills=1688
+currentMills:1688
+systemclock.uptimeMillis()-wakeupMills=1696
+currentMills:1696
+systemclock.uptimeMillis()-wakeupMills=1702
+currentMills:1702
+systemclock.uptimeMillis()-wakeupMills=1709
+currentMills:1709
+systemclock.uptimeMillis()-wakeupMills=1714
+currentMills:1714
+systemclock.uptimeMillis()-wakeupMills=1719
+currentMills:1719
+systemclock.uptimeMillis()-wakeupMills=1727
+currentMills:1727
+systemclock.uptimeMillis()-wakeupMills=1734
+currentMills:1734
+systemclock.uptimeMillis()-wakeupMills=1739
+currentMills:1739
+systemclock.uptimeMillis()-wakeupMills=1747
+currentMills:1747
+systemclock.uptimeMillis()-wakeupMills=1752
+currentMills:1752
+systemclock.uptimeMillis()-wakeupMills=1757
+currentMills:1757
+systemclock.uptimeMillis()-wakeupMills=1764
+currentMills:1764
+systemclock.uptimeMillis()-wakeupMills=1769
+currentMills:1769
+systemclock.uptimeMillis()-wakeupMills=1774
+currentMills:1774
+systemclock.uptimeMillis()-wakeupMills=1781
+currentMills:1781
+systemclock.uptimeMillis()-wakeupMills=1786
+currentMills:1786
+systemclock.uptimeMillis()-wakeupMills=1791
+currentMills:1791
+systemclock.uptimeMillis()-wakeupMills=1798
+currentMills:1798
+systemclock.uptimeMillis()-wakeupMills=1816
+currentMills:1816
+systemclock.uptimeMillis()-wakeupMills=1823
+currentMills:1823
+systemclock.uptimeMillis()-wakeupMills=1830
+currentMills:1830
+systemclock.uptimeMillis()-wakeupMills=1835
+currentMills:1835
+systemclock.uptimeMillis()-wakeupMills=1840
+currentMills:1840
+systemclock.uptimeMillis()-wakeupMills=1854
+currentMills:1854
+systemclock.uptimeMillis()-wakeupMills=1868
+currentMills:1868
+systemclock.uptimeMillis()-wakeupMills=1873
+currentMills:1873
+systemclock.uptimeMillis()-wakeupMills=1893
+currentMills:1893
+systemclock.uptimeMillis()-wakeupMills=1906
+currentMills:1906
+systemclock.uptimeMillis()-wakeupMills=1935
+currentMills:1935
+systemclock.uptimeMillis()-wakeupMills=1947
+currentMills:1947
+systemclock.uptimeMillis()-wakeupMills=1963
+currentMills:1963
+systemclock.uptimeMillis()-wakeupMills=1982
+currentMills:1982
+systemclock.uptimeMillis()-wakeupMills=2776
+currentMills:2777
+systemclock.uptimeMillis()-wakeupMills=3529
+currentMills:3529
+systemclock.uptimeMillis()-wakeupMills=4360
+currentMills:4360
+exists!!
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.pekall.test.mdmui.SetUp
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: test=loginPekall
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: stream=
+Test results for WatcherResultPrinter=.
+Time: 16.844
+
+OK (1 test)
+
+
+INSTRUMENTATION_STATUS_CODE: -1

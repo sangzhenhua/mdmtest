@@ -1,0 +1,205 @@
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.pekall.test.mdmui.SetUp
+INSTRUMENTATION_STATUS: stream=
+com.pekall.test.mdmui.SetUp:
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: test=setup
+INSTRUMENTATION_STATUS_CODE: 1
+swipe to unlock
+not in settings
+go Apps
+not in apps
+go home
+not in pekall
+not in home
+source: Apps
+\u41\u70\u70\u73
+Apps\u41\u70\u70\u73
+not in home
+source: Apps
+\u41\u70\u70\u73
+Apps\u41\u70\u70\u73
+not in home
+source: Apps
+\u41\u70\u70\u73
+Apps\u41\u70\u70\u73
+Apps
+Rect(0, 50 - 142, 154)
+maxSwipes:2
+continue to swipe
+continue to swipe
+maxSwipes:3
+continue to swipe
+continue to swipe
+continue to swipe
+maxSwipes:3
+HttpClienPekall
+Rect(172, 324 - 418, 372)
+not in settings
+go Apps
+already in apps
+Apps
+Rect(0, 50 - 142, 154)
+maxSwipes:2
+maxSwipes:3
+maxSwipes:3
+continue to swipe
+continue to swipe
+continue to swipe
+my Wait for exists
+currentMills:0
+exists!!
+go Pekall
+go Apps
+not in apps
+go home
+not in pekall
+not in home
+source: Apps
+\u41\u70\u70\u73
+Apps\u41\u70\u70\u73
+not in home
+source: Apps
+\u41\u70\u70\u73
+Apps\u41\u70\u70\u73
+not in home
+source: Apps
+\u41\u70\u70\u73
+Apps\u41\u70\u70\u73
+Apps
+Rect(0, 50 - 142, 154)
+maxSwipes:2
+my Wait for exists
+currentMills:0
+exists!!
+swipe...
+swipte i:0
+width:720
+height:1184
+com.android.uiautomator.core.UiDevice@417d3308
+swipte i:1
+width:720
+height:1184
+com.android.uiautomator.core.UiDevice@417d3308
+swipte i:2
+width:720
+height:1184
+com.android.uiautomator.core.UiDevice@417d3308
+my Wait for exists
+currentMills:0
+currentMills:15
+currentMills:26
+currentMills:33
+currentMills:44
+currentMills:51
+currentMills:59
+currentMills:67
+currentMills:76
+currentMills:96
+currentMills:156
+currentMills:173
+currentMills:180
+currentMills:188
+currentMills:196
+currentMills:207
+currentMills:215
+currentMills:224
+currentMills:233
+currentMills:241
+currentMills:250
+currentMills:752
+currentMills:758
+currentMills:765
+currentMills:772
+currentMills:780
+currentMills:787
+currentMills:793
+currentMills:799
+currentMills:807
+currentMills:814
+currentMills:822
+currentMills:829
+currentMills:838
+currentMills:844
+currentMills:850
+currentMills:857
+currentMills:863
+currentMills:870
+currentMills:889
+currentMills:900
+currentMills:915
+currentMills:927
+currentMills:933
+currentMills:940
+currentMills:945
+currentMills:951
+currentMills:958
+currentMills:963
+currentMills:970
+currentMills:975
+currentMills:983
+currentMills:989
+currentMills:995
+currentMills:1000
+currentMills:1008
+currentMills:1013
+currentMills:1021
+currentMills:1027
+currentMills:1033
+currentMills:1041
+currentMills:1046
+currentMills:1055
+currentMills:1065
+currentMills:1072
+currentMills:1078
+currentMills:1083
+currentMills:1091
+currentMills:1097
+currentMills:1102
+currentMills:1109
+currentMills:1115
+currentMills:1120
+currentMills:1127
+currentMills:1132
+currentMills:1140
+currentMills:1147
+currentMills:1153
+currentMills:1161
+currentMills:1166
+currentMills:1174
+currentMills:1179
+currentMills:1186
+currentMills:1193
+currentMills:1199
+currentMills:1205
+currentMills:1216
+currentMills:1241
+currentMills:1252
+currentMills:1266
+currentMills:1276
+currentMills:1287
+currentMills:1298
+currentMills:1308
+currentMills:1394
+currentMills:2333
+currentMills:3087
+currentMills:3839
+currentMills:4592
+exists!!
+in pekall home or list
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.pekall.test.mdmui.SetUp
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: test=setup
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: stream=
+Test results for WatcherResultPrinter=.
+Time: 88.892
+
+OK (1 test)
+
+
+INSTRUMENTATION_STATUS_CODE: -1

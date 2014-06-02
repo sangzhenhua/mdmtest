@@ -1,0 +1,92 @@
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.pekall.test.mdmui.SetUp
+INSTRUMENTATION_STATUS: stream=
+com.pekall.test.mdmui.SetUp:
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: test=loginPekall
+INSTRUMENTATION_STATUS_CODE: 1
+swipe to unlock
+not in pekall home or list
+login after clear company data
+my Wait for exists
+wake up
+currentMills:0
+systemclock.uptimeMillis()-wakeupMills=1740
+wake up in wait
+wake up
+currentMills:1741
+systemclock.uptimeMillis()-wakeupMills=21
+currentMills:1761
+systemclock.uptimeMillis()-wakeupMills=528
+wake up in wait
+wake up
+currentMills:2269
+systemclock.uptimeMillis()-wakeupMills=48
+currentMills:2316
+systemclock.uptimeMillis()-wakeupMills=56
+currentMills:2324
+systemclock.uptimeMillis()-wakeupMills=63
+currentMills:2331
+systemclock.uptimeMillis()-wakeupMills=71
+currentMills:2339
+systemclock.uptimeMillis()-wakeupMills=83
+currentMills:2351
+systemclock.uptimeMillis()-wakeupMills=89
+currentMills:2357
+systemclock.uptimeMillis()-wakeupMills=96
+currentMills:2364
+systemclock.uptimeMillis()-wakeupMills=119
+currentMills:2388
+systemclock.uptimeMillis()-wakeupMills=128
+currentMills:2397
+systemclock.uptimeMillis()-wakeupMills=138
+currentMills:2406
+systemclock.uptimeMillis()-wakeupMills=148
+currentMills:2416
+systemclock.uptimeMillis()-wakeupMills=161
+currentMills:2429
+systemclock.uptimeMillis()-wakeupMills=169
+currentMills:2437
+systemclock.uptimeMillis()-wakeupMills=186
+currentMills:2454
+systemclock.uptimeMillis()-wakeupMills=199
+currentMills:2467
+systemclock.uptimeMillis()-wakeupMills=235
+currentMills:2504
+systemclock.uptimeMillis()-wakeupMills=256
+currentMills:2524
+systemclock.uptimeMillis()-wakeupMills=275
+currentMills:2543
+systemclock.uptimeMillis()-wakeupMills=1149
+wake up in wait
+wake up
+currentMills:3417
+systemclock.uptimeMillis()-wakeupMills=753
+wake up in wait
+wake up
+currentMills:4170
+systemclock.uptimeMillis()-wakeupMills=753
+wake up in wait
+wake up
+currentMills:4923
+systemclock.uptimeMillis()-wakeupMills=753
+wake up in wait
+wake up
+currentMills:5677
+exists!!
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.pekall.test.mdmui.SetUp
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: test=loginPekall
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: stream=
+Test results for WatcherResultPrinter=.
+Time: 16.345
+
+OK (1 test)
+
+
+INSTRUMENTATION_STATUS_CODE: -1

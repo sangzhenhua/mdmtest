@@ -1,0 +1,3 @@
+INSTRUMENTATION_RESULT: shortMsg=java.lang.IllegalStateException
+INSTRUMENTATION_RESULT: longMsg=UiAutomationService android.accessibilityservice.IAccessibilityServiceClient$Stub$Proxy@42a11cc8already registered!
+INSTRUMENTATION_CODE: 0

@@ -1,0 +1,31 @@
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.pekall.test.mdmui.Message
+INSTRUMENTATION_STATUS: stream=
+com.pekall.test.mdmui.Message:
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: test=checkPushMsgReceived
+INSTRUMENTATION_STATUS_CODE: 1
+swipe to unlock
+in pekall
+Message Center  not in pekall list
+in pekall home or list
+not in pekall home
+Rect(293, 1070 - 426, 1174)
+Message Center
+Rect(185, 335 - 360, 590)
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: class=com.pekall.test.mdmui.Message
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: numtests=1
+INSTRUMENTATION_STATUS: test=checkPushMsgReceived
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: stream=
+Test results for WatcherResultPrinter=.
+Time: 8.471
+
+OK (1 test)
+
+
+INSTRUMENTATION_STATUS_CODE: -1
